@@ -9,13 +9,13 @@
   "street": "Miera iela 10",
   "postal_code": "LV-1001",
   "country_code": "LV",
-  "linkedin_url": "",
+  "linkedin_url": "https://www.linkedin.com/in/elvis-krastins",
 
   "_web3forms_help": "Free key from https://web3forms.com (enter elvis@krastin.eu). This key is public by design - it only allows sending messages to your inbox.",
-  "web3forms_key": "",
+  "web3forms_key": "16bf32c7-b62b-4080-8bd1-9cff081e8289",
 
   "_analytics_help": "Cookie-less analytics. Fill ONE of these, or leave both empty for no analytics.",
-  "cloudflare_analytics_token": "",
+  "cloudflare_analytics_token": "e9cccb34d15e488b908e7edb84f7b1b3",
   "plausible_domain": "",
 
   "case_order": ["carve-out", "long-term-plan", "unit-cost"],

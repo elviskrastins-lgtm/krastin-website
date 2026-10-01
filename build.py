@@ -175,12 +175,12 @@ class Site:
             "founder": {"@type": "Person", "name": "Elvis Krastiņš", "jobTitle": self.t[lang]["seo"]["founder_title"]},
             "areaServed": ["LV", "EE", "LT"], "knowsLanguage": ["lv", "en"],
         }
-        if cfg.get("linkedin_url"):
-            org["sameAs"] = [cfg["linkedin_url"]]
+        if cfg.get("linkedin_url"):  # personal profile, so it belongs to the founder
+            org["founder"]["sameAs"] = [cfg["linkedin_url"]]
         ld = "".join(f'<script type="application/ld+json">{json.dumps(o, ensure_ascii=False)}</script>' for o in (org, *jsonld))
         analytics = ""
         if cfg.get("cloudflare_analytics_token"):
-            analytics = ("<script defer src=\"https://static.cloudflareinsights.com/beacon.min.js\" "
+            analytics = ("<script type=\"module\" src=\"https://static.cloudflareinsights.com/beacon.min.js\" "
                          f"data-cf-beacon='{{\"token\": \"{esc(cfg['cloudflare_analytics_token'])}\"}}'></script>")
         elif cfg.get("plausible_domain"):
             analytics = f'<script defer data-domain="{esc(cfg["plausible_domain"])}" src="https://plausible.io/js/script.js"></script>'
