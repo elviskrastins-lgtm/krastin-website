@@ -1,0 +1,7 @@
+/* Webfonts. NOTE: no brand font binaries were supplied — these are Google Fonts
+   stand-ins chosen to match the Livonia/Anthropic direction. Swap for licensed files when available.
+   Newsreader      -> editorial serif, italic is the brand signature
+   Instrument Sans -> everything else: display, UI, labels and figures (tabular lining numerals) */
+@import url("https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400;1,6..72,500&family=Instrument+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap");
+/* Latvian ī/Ī patch: glyph-only subset of Source Serif 4, placed before Newsreader in --font-serif so the browser uses it for these two characters only. */
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;1,8..60,300;1,8..60,400;1,8..60,500&text=%C4%AA%C4%AB&display=swap");

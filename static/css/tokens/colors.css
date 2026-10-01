@@ -1,0 +1,89 @@
+:root{
+/* --- Bone: barely-warm off-white ramp (page + surfaces) --- */
+--bone-000:#FFFFFF;
+--bone-050:#F8F6F4;
+--bone-100:#EFEBE8;
+--bone-200:#E5E1DD;
+--bone-300:#D7D2CE;
+/* --- Neutrals: neutral grey ramp --- */
+--grey-400:#B4B2AC;
+--grey-500:#83817B;
+--grey-600:#67655F;
+--grey-700:#46443F;
+/* --- Ink: neutral near-black (the primary brand colour AND the accent) --- */
+--ink-800:#33322E;
+--ink-900:#1A1A18;
+/* --- Clay: the only hue in the system. Dark bands, and the numerals. --- */
+--clay-900:#1C1413;
+--clay-700:#3A2321;
+--clay-600:#7C4A45;
+--clay-300:#B98C85;
+--clay-050:#F5ECEA;
+/* --- Semantic hues (reporting / status only) — warmed to sit with bone + clay --- */
+--green-600:#4A6138;
+--green-050:#ECEFE3;
+--red-600:#9B3D22;
+--red-050:#F7E9E1;
+--amber-600:#8F5F1C;
+--amber-050:#F5EBDB;
+
+/* ================= Semantic aliases ================= */
+--text-primary:var(--ink-900);
+--text-body:var(--ink-800);
+--text-secondary:var(--grey-600);
+--text-muted:var(--grey-500);
+--text-inverse:var(--bone-050);
+--text-accent:var(--ink-900);
+--text-on-accent:var(--bone-050);
+
+--surface-page:var(--bone-050);
+--surface-card:var(--bone-000);
+--surface-sunken:var(--bone-100);
+--surface-raised:var(--bone-000);
+--surface-inverse:var(--ink-900);
+--surface-accent:var(--clay-900);
+--surface-accent-soft:var(--clay-050);
+
+--border-hairline:#E4DFDB;
+--border-subtle:var(--bone-300);
+--border-strong:var(--grey-400);
+--border-ink:var(--ink-900);
+--border-inverse:rgba(248,246,244,.24);
+/* Rules are ink. There is no coloured rule in this system. */
+--rule-accent:var(--ink-900);
+/* The one place a hue touches a light ground: mono numerals (01, 02). */
+--numeral-accent:var(--clay-600);
+
+--link:var(--ink-900);
+--link-hover:var(--ink-900);
+--link-inverse:var(--bone-050);
+--focus-ring:var(--ink-900);
+
+--status-positive:var(--green-600);
+--status-positive-soft:var(--green-050);
+--status-negative:var(--red-600);
+--status-negative-soft:var(--red-050);
+--status-caution:var(--amber-600);
+--status-caution-soft:var(--amber-050);
+
+--overlay-scrim:rgba(28,20,19,.56);
+--protection-gradient:linear-gradient(180deg,rgba(26,26,24,0) 0%,rgba(26,26,24,.55) 55%,rgba(26,26,24,.84) 100%); /* @kind color */
+}
+/* Inverse section scope: drop this class on a dark band and text/border tokens flip. */
+.k-inverse{
+--text-primary:var(--bone-050);
+--text-body:var(--bone-100);
+--text-secondary:rgba(248,246,244,.66);
+--text-muted:rgba(248,246,244,.48);
+--surface-card:rgba(248,246,244,.06);
+--surface-sunken:rgba(248,246,244,.04);
+--border-hairline:rgba(248,246,244,.16);
+--border-subtle:rgba(248,246,244,.22);
+--border-strong:rgba(248,246,244,.38);
+--border-ink:var(--bone-050);
+--rule-accent:var(--bone-050);
+--numeral-accent:var(--clay-300);
+--link:var(--bone-050);
+--link-hover:var(--bone-050);
+--focus-ring:var(--bone-050);
+}

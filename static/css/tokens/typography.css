@@ -1,0 +1,53 @@
+:root{
+--font-serif:"Source Serif 4","Newsreader",'Iowan Old Style',Georgia,serif; /* "Source Serif 4" is loaded as an ī/Ī-only subset (fonts.css) — Newsreader's own ī renders with a dot; every other glyph falls through to Newsreader */
+--font-sans:"Instrument Sans","Helvetica Neue",Helvetica,sans-serif;
+
+/* Two faces only. There is no monospace in this system — figures are the sans with
+   tabular lining numerals, which Instrument Sans carries. */
+--font-display:var(--font-sans);      /* uppercase grotesque hero, Rempe-style */
+--font-editorial:var(--font-serif);   /* serif + italic emphasis, Livonia-style */
+--font-label:var(--font-sans);        /* eyebrows, table headers, captions */
+--font-figure:var(--font-sans);       /* numbers — always with --figure-features */
+
+--weight-light:300;
+--weight-regular:400;
+--weight-medium:500;
+--weight-semibold:600;
+
+/* Type scale — 1.25 major-third-ish, tuned for 1440 desktop */
+--size-11:11px;
+--size-12:12px;
+--size-13:13px;
+--size-14:14px;
+--size-16:16px;
+--size-18:18px;
+--size-21:21px;
+--size-26:26px;
+--size-32:32px;
+--size-40:40px;
+--size-52:52px;
+--size-64:64px;
+--size-84:84px;
+
+--lh-tight:0.98; /* @kind other */
+--lh-snug:1.08; /* @kind other */
+--lh-heading:1.18; /* @kind other */
+--lh-body:1.55; /* @kind other */
+--lh-loose:1.7; /* @kind other */
+
+--track-hero:-0.02em;
+--track-heading:-0.012em;
+--track-body:0em;
+--track-label:0.08em;   /* uppercase sans labels — tighter than mono needed */
+--track-nav:0.02em;
+
+/* Role aliases */
+--text-hero-size:var(--size-84);
+--text-h1-size:var(--size-52);
+--text-h2-size:var(--size-32);
+--text-h3-size:var(--size-21);
+--text-body-size:var(--size-16);
+--text-small-size:var(--size-14);
+--text-caption-size:var(--size-12);
+--figure-features:"tnum" 1,"lnum" 1; /* @kind other */
+}

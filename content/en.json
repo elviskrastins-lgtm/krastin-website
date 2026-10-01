@@ -1,0 +1,316 @@
+{
+  "_help": "All English text on the site. Words wrapped in *asterisks* are shown in the serif italic accent. Keep the quotes and commas intact.",
+
+  "seo": {
+    "home":     { "title": "Krastin CFO Partners — Outsourced CFO services in Riga", "description": "Outsourced CFO services in Latvia: financial modelling and budgeting, unit cost and segment profitability, finance function and data analysis, M&A and company valuation." },
+    "services": { "title": "Services — Krastin CFO Partners", "description": "Financial models and budgets, profitability by client and product, unit cost analysis, due diligence, valuation, carve-outs, bank financing, KPI reporting and Power BI dashboards." },
+    "insights": { "title": "Insights — Krastin CFO Partners", "description": "Anonymised examples of our work: carve-out financials for a business sale, a five-year planning model, and unit cost and profitability analysis." },
+    "about":    { "title": "About — Krastin CFO Partners", "description": "Elvis Krastiņš, founder and CFO. Experience in investment banking, corporate lending and running the finance function inside companies." },
+    "contact":  { "title": "Contact — Krastin CFO Partners", "description": "Book a free first meeting with an outsourced CFO in Riga. Miera iela 10, Riga. +371 2975 4905." },
+    "faq":      { "title": "FAQ — Krastin CFO Partners", "description": "What an outsourced CFO does, what it costs, how companies are valued, how to prepare a business for sale, and how unit cost and profitability are calculated." },
+    "privacy":  { "title": "Privacy policy — Krastin CFO Partners", "description": "How Krastin CFO Partners handles the information you send through the contact form, and the cookie-less analytics used on this site." },
+    "notfound": { "title": "Page not found — Krastin CFO Partners", "description": "" },
+    "org_description": "Outsourced CFO services: financial modelling and budgeting, segment profitability, finance function and data analysis, M&A and valuation.",
+    "founder_title": "Founder and CFO"
+  },
+
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "insights": "Insights",
+    "about": "About",
+    "cta": "Book a discovery call",
+    "open_menu": "Open menu",
+    "close_menu": "Close menu",
+    "language": "Language",
+    "skip": "Skip to content"
+  },
+
+  "areas": {
+    "modelling": {
+      "title": "Financial modelling and budgeting",
+      "home": "A driver-based model and an annual budget you can actually run decisions through — not a spreadsheet nobody opens.",
+      "about": "Budgets, forecasts and long-term plans that help you compare options before committing to one.",
+      "services": "Driver-based, three-statement, and built so you can change one assumption and see the impact.",
+      "tasks": [
+        ["Three-statement financial model", "Profit and loss, balance sheet and cash flow linked in one model, driven by the things you actually control — volumes, prices, headcount, payment terms. Change one and the whole picture updates."],
+        ["Annual budget and rolling forecast", "A budget your managers agree to, then re-forecast every month with actuals dropped in, so the year-end view is always current rather than a plan set in January."],
+        ["Scenario and sensitivity analysis", "What happens if your largest client leaves, materials rise 12%, or the new line launches late. We quantify each case so the decision is made before the event, not after."],
+        ["Cash-flow forecast and runway", "A weekly or monthly view of cash in and out, showing exactly when it gets tight and how many months you have at the current burn."],
+        ["Strategic planning and evaluation", "Long-term financial projections for each strategic option open to you — new markets, new products, expansion or consolidation — compared side by side on profit, cash and risk, so the direction you choose is the one the numbers favour."]
+      ]
+    },
+    "profitability": {
+      "title": "Segment profitability",
+      "home": "Which clients, services and products carry the business — and which quietly cost you money.",
+      "about": "Understanding which clients, products and services contribute to the result, and which need attention.",
+      "services": "Which clients, services and products carry the business — and which quietly cost you money.",
+      "tasks": [
+        ["Contribution analysis by client", "What each client leaves you after the costs of serving them — not just invoiced revenue."],
+        ["Profitability by service line and product", "An analysis of margins for each service line and/or product, showing which areas generate the strongest returns and which require improvement."],
+        ["Unit cost analysis", "A calculation of the full cost of producing a product or delivering a service, including a fair share of overheads, to support pricing and profitability decisions."],
+        ["Pricing floor by products", "The lowest price at which a job is still worth taking, calculated per segment, so your team can quote with confidence."],
+        ["Consolidated reporting", "A single, consistent reporting structure that brings results from every business unit, entity or segment together, so management can compare performance side by side and see the group as a whole."]
+      ]
+    },
+    "finance": {
+      "title": "Finance function and data analysis",
+      "home": "The people, the process and the numbers behind them: a close you can trust and reporting that answers the question.",
+      "about": "Reporting and processes that give management clear, reliable numbers each month.",
+      "services": "The people, the process and the numbers behind them — a close you can trust and reporting that answers the question.",
+      "tasks": [
+        ["Management reporting and KPI framework", "A short set of measures the management team agrees on, defined precisely enough that nobody argues about the numbers."],
+        ["Accounting policies review", "A review of your accounting policies and how income and expenses are recognised and booked, so reported profit reflects the real performance of the business."],
+        ["Financial dashboards", "Clear, interactive dashboards (for example in Power BI) that bring accounting, sales and operational data together in one view for management."],
+        ["Accounting process review", "A review of the accounting process from source data to financial statements: where data comes from and in what format, and how it is checked, processed and recorded. The result is a clear list of gaps and risks, with recommendations to make the process more accurate, faster and easier to control."]
+      ]
+    },
+    "ma": {
+      "title": "M&A and valuation",
+      "home": "Diligence-ready numbers, a defensible valuation, and someone in the room who has done it.",
+      "about": "Support when buying, selling or valuing a business, from the first numbers to completion.",
+      "services": "Support across the full transaction — buying, selling, buy-outs and financing — from valuation and due diligence to completion.",
+      "tasks": [
+        ["Financial due diligence of an acquisition target", "An independent review of a target’s financials before you buy: identification of key risks, quality of earnings, net debt and the real working-capital level — the factors that should shape the price."],
+        ["Valuation of a company, group or business segment", "An independent valuation of a company, group or business segment, prepared using recognised methods — discounted cash flow, market comparables and the net asset approach — with all key assumptions clearly documented."],
+        ["Bank and alternative financing", "Arranging the refinancing of existing loans and securing new funding from banks or alternative lenders, including preparation of the financial information and projections lenders require."],
+        ["Carve-out financials for a business segment", "Standalone accounts for the part you are selling, separating shared costs and contracts so a buyer can see what they are actually acquiring."],
+        ["Sell-side advisory", "Management of the full sale process of a company, from preparation and buyer identification through negotiation to completion."],
+        ["Management buy-out", "Structuring and executing the acquisition of a business by its management team, including valuation, financing and transaction support."],
+        ["Buy-side advisory", "End-to-end support in acquiring a company — from target screening and valuation through due diligence and negotiation to completion."],
+        ["Leveraged buy-out", "Structuring an acquisition financed largely with debt, including the financing model, lender discussions and assessment of the target’s debt capacity."]
+      ]
+    }
+  },
+
+  "home": {
+    "hero_line1": "Do you know which",
+    "typed_words": ["products", "clients", "services"],
+    "hero_line2": "make *you* money?",
+    "hero_aria": "Do you know which products, clients or services make you money?",
+    "lede": "Most owner-managers know their revenue. Fewer know which customers, products and services truly drive the profit.",
+    "lede2": "We build the approach that shows you — and we stay to keep it running.",
+    "hero_cta": "See how we work",
+    "problems_heading": "Which of these sounds like *your* month?",
+    "problems_intro": "Pick the ones that apply. We will open the call with those.",
+    "problems": [
+      "Cash runs short",
+      "Unclear client profitability",
+      "No control over costs",
+      "Pricing set by feel",
+      "No budgeting process",
+      "Growth without profit",
+      "No forecasts",
+      "No strategic planning",
+      "Want to sell my business",
+      "Need a share valuation",
+      "Margin drifting, cause unknown"
+    ],
+    "problems_cta": "Book a discovery call",
+    "problems_none": "Or book without picking — we will find them together.",
+    "problems_one": "{n} problem selected. We will come prepared.",
+    "problems_many": "{n} problems selected. We will come prepared.",
+    "services_heading": "An expert finance function, *outsourced*.",
+    "services_sub": "Four things we do.",
+    "insights_heading": "Insights",
+    "insights_all": "All notes",
+    "closing_heading": "Start with one question you cannot answer.",
+    "closing_cta": "Book a discovery call"
+  },
+
+  "services": {
+    "h1": "Four things, done *properly*.",
+    "lede": "We are not a bookkeeping service and not a consultancy that leaves a deck behind. We do the finance work a CFO would do, for the specific tasks you need one.",
+    "close": "Close",
+    "process_heading": "How we work",
+    "process": [
+      ["Introductory meeting", "We listen first. Together we look at the challenges you are facing, agree on the key issues and discuss possible solutions — already in the first meeting."],
+      ["Options", "We outline the possible ways forward. There is rarely a single right answer, and if some of the work falls outside our expertise, we will tell you openly."],
+      ["Detailed proposal", "A written proposal setting out the specific steps, goals and timeline, and how the work will be carried forward once the initial challenge is solved."],
+      ["Delivery and beyond", "We carry out the agreed work with you and your team. Afterwards, the tools and processes can be handed over to a colleague, or we can stay on as your part-time CFO."]
+    ],
+    "sectors": ["Manufacturing", "SaaS", "Logistics", "Healthcare", "Infrastructure"],
+    "sectors_heading": "Sectors we know well enough to be useful in week one.",
+    "cta": "Book a discovery call"
+  },
+
+  "insights": {
+    "h1": "Insights from *our work*",
+    "lede": "Short accounts of problems we have helped solve. Clients are anonymised.",
+    "read_more": "Read the note",
+    "anonymised": "Client details are anonymised and figures shown as ranges.",
+    "cta": "Discuss a similar challenge",
+    "back": "Back to all insights"
+  },
+
+  "cases": {
+    "carve-out": {
+      "topic": "M&A",
+      "date": "SEP 2026",
+      "title": "Selling one part of a business *that was never counted separately*",
+      "excerpt": "Carve-out financials and an investor-ready story for a division with no accounts of its own.",
+      "lede": "The owners of an engineering services company wanted to sell their international division. The buyer would ask one question first: what does that division earn on its own? Nobody had the answer.",
+      "facts": [["Client", "Engineering services company"], ["Size", "€5–10m revenue"], ["Work", "Carve-out financials, normalised EBITDA, information memorandum"]],
+      "body": [
+        ["The problem", "Everything sat in one legal entity. Revenue and project costs were tracked by job, but payroll, overheads and most of the balance sheet were shared between the international projects and the domestic business. Reported profit also included one-off gains from an asset sale and a revaluation, which made the underlying performance look better than it was."],
+        ["What we did", "We built a profit and loss account for the division from the ground up. Revenue and direct costs came from job-level records. Payroll was split by country using monthly staffing data. Shared costs were allocated using clear, documented keys, and we estimated what the division would cost to run as a stand-alone business. One-off items were removed to arrive at a normalised EBITDA, with a bridge that shows every adjustment."],
+        ["The balance sheet", "A full split of the balance sheet was neither possible nor necessary. Instead we identified the assets, leases, receivables and payables that belong to the division, and estimated a normal level of working capital for the deal."]
+      ],
+      "outcome": "The owners now have numbers a buyer can test and a memorandum that tells the story behind them — before the first meeting, not during due diligence."
+    },
+    "long-term-plan": {
+      "topic": "Financial modelling",
+      "date": "MAY 2026",
+      "title": "A five-year plan *management can actually use*",
+      "excerpt": "Rebuilding a public-service operator’s planning model around how the business really runs.",
+      "lede": "A public-service operator needed a medium-term plan for its strategy period. Its existing model produced a single number for most lines of the income statement and could not show what drives them.",
+      "facts": [["Client", "Public-service infrastructure operator"], ["Horizon", "Five years, annual"], ["Work", "Long-term planning model, KPI reporting"]],
+      "body": [
+        ["The problem", "Its asset base was changing: new equipment, leased assets on different terms and new technology due within the period. Each has its own costs, maintenance and financing. The old model treated them as one, and public funding and grants were shown as totals that did not match the annual report."],
+        ["What we did", "We rebuilt the model around operating activity. Service volumes by activity and asset type now drive energy, maintenance and depreciation. Revenue is linked to service volumes and tariff changes. Public compensation and grant amortisation follow the same logic as the annual accounts, and loans, credit lines and dividends each have their own terms."],
+        ["Built to last", "Every assumption sits in one clearly marked input area — no numbers hidden in formulas. Actual results and approved budgets can be dropped in each year, and the key performance indicators reported to the public authority are calculated directly from the model."]
+      ],
+      "outcome": "Management can now test a decision — a new service, a lease or a tariff change — and see its effect on profit, cash and funding needs within minutes."
+    },
+    "unit-cost": {
+      "topic": "Segment profitability",
+      "date": "DEC 2025",
+      "title": "What each service *really* costs to deliver",
+      "excerpt": "Unit costs and profitability by department and funding source, refreshed every month.",
+      "lede": "A healthcare provider with several departments and funding sources knew its total result, but not which departments covered their costs, or what one unit of service actually cost to deliver.",
+      "facts": [["Client", "Healthcare provider"], ["Scope", "All departments and funding sources"], ["Work", "Unit cost and profitability tool, budget vs actual"]],
+      "body": [
+        ["The problem", "Costs were recorded in the general ledger by account, not by department. Shared costs — staff working across units, premises, support functions — were not allocated at all. Pricing and funding discussions were therefore based on estimates."],
+        ["What we did", "We built a tool that reads the monthly general ledger and allocates revenue and costs to departments and funding sources using agreed rules. Shared accounts are split using criteria set with management, such as staff time or floor space. Each department’s cost is then divided by its activity to give a clear unit cost."],
+        ["Every month, not once", "The finance team pastes in the new month’s ledger and the report updates itself. New accounts and departments can be added without rebuilding anything, and a separate view compares actual results with budget month by month."]
+      ],
+      "outcome": "Management now sees which departments and services cover their costs, and can discuss funding and pricing with facts rather than assumptions. The approach was later transferred to Power BI, so the reports now update automatically."
+    }
+  },
+
+  "about": {
+    "h1": "Clear numbers, *better decisions*.",
+    "lede": "We help owners and managers understand their numbers and use them to make decisions with more confidence.",
+    "body": [
+      "Many excellent entrepreneurs and managers are true experts in their own field, yet have never had the time or the reason to master finance, accounting and data — or to bring them together into a clear picture of their own business. That is where we can help.",
+      "Our experience spans investment banking, corporate lending and running the finance function inside companies, so I have seen businesses from the perspective of owners, lenders and investors alike. Whatever challenge you are facing, there is a good chance we have come across something similar before — and we are always happy to meet and talk it through."
+    ],
+    "name": "Elvis Krastiņš",
+    "role": "Founder and CFO",
+    "work_heading": "We work on",
+    "how_heading": "How we work",
+    "steps": [
+      ["We start by listening", "Our first conversation is about the challenges on your mind. Often we can already share how similar situations have been approached elsewhere, so you come away with a clearer sense of the options ahead."],
+      ["Options", "I set out the possible ways forward and what each would involve. If part of the work falls outside my expertise, I will say so openly."],
+      ["Detailed proposal", "A written plan with the specific steps, goals and timeline — and how the work will continue once the initial challenge is solved."],
+      ["Delivery and beyond", "I carry out the work alongside you and your team. Afterwards, the tools can be handed over to a colleague, or I can stay on as your part-time CFO."]
+    ],
+    "specialists": "Where a project needs tax, legal, audit or systems expertise, I work together with trusted specialists and keep you informed of who is involved.",
+    "closing": "If any of this sounds useful, I would be glad to talk.",
+    "cta": "Book a discovery call"
+  },
+
+  "contact": {
+    "h1": "Start with the question you *cannot* answer.",
+    "lede": "No charge, no deck. If we are not the right people we will say so and suggest who is.",
+    "office_label": "Riga",
+    "address": "Miera iela 10\nRiga, LV-1001\nLatvia",
+    "direct_label": "Direct",
+    "note_title": "Note",
+    "note": "We do not take bookkeeping or payroll work. We are happy to recommend someone who does.",
+    "name": "Name",
+    "name_ph": "Jānis Bērziņš",
+    "company": "Company",
+    "company_ph": "Company SIA",
+    "email": "Work email",
+    "email_ph": "you@company.lv",
+    "email_help": "We reply within one business day.",
+    "start": "Where to start",
+    "not_sure": "Not sure yet",
+    "message": "What are you trying to work out?",
+    "message_ph": "Two or three sentences is plenty.",
+    "submit": "Book a discovery call",
+    "sending": "Sending…",
+    "small": "We use what you send only to reply. Advisory services only; nothing here is investment advice.",
+    "success_h": "Thank you — we will reply within one business day.",
+    "success_p": "You will hear from Elvis directly.",
+    "again": "Send another enquiry",
+    "error": "Sorry, the message could not be sent. Please email us directly at elvis@krastin.eu.",
+    "prefill": "The problems I recognise:",
+    "subject": "New enquiry from krastin website"
+  },
+
+  "faq": {
+    "h1": "Frequently asked *questions*",
+    "lede": "Answers to the questions owners and managers ask us most often.",
+    "groups": [
+      { "title": "General", "items": [
+        ["What is an outsourced CFO?", "An experienced finance director who works with your company for specific tasks, instead of as a full-time employee. You get CFO-level analysis, planning and decision support without the cost of a permanent hire."],
+        ["Which companies do you work with?", "Mainly owner-managed and mid-sized companies in Latvia and the Baltics, as well as public-sector and regulated organisations. Typical clients are growing, preparing a transaction, or need accurate data for management and lenders to base decisions on."],
+        ["How is this different from an accountant or auditor?", "An accountant records what happened and an auditor checks it. We use those numbers to explain why results look the way they do and to plan what to do next — pricing, investments, financing, or the sale of a business. We do not take bookkeeping or payroll work."],
+        ["How much does it cost?", "Most projects have a fixed price agreed in advance, based on a written proposal. Ongoing part-time CFO support is usually a monthly fee or an hourly rate. The first meeting is free of charge."],
+        ["How long does a typical project take?", "Most projects take four to eight weeks from the moment we receive the data. Transaction support follows the timeline of the deal, typically from two months up to a year, and sometimes longer."],
+        ["Is our information kept confidential?", "Yes. We sign a confidentiality agreement before receiving any data, and client names are never published without permission."]
+      ]},
+      { "title": "Financial modelling and budgeting", "items": [
+        ["What is a financial model?", "A model in which the profit and loss account, balance sheet and cash flow are linked, so that one change — a price, a volume or a payment term — flows through all three. It shows not only profit, but also how much cash the business will need."],
+        ["Can you build a budget our managers will actually use?", "Yes. We build the budget together with the people responsible for each area, then set up a simple monthly process to compare actual results with the plan and update the forecast."],
+        ["Can we keep using the model ourselves afterwards?", "Yes. All models are built in Excel or Power BI with clearly marked inputs and documentation, and we train a member of your team to maintain them."]
+      ]},
+      { "title": "Segment profitability", "items": [
+        ["How do you calculate the profitability of each client or product?", "We start from the general ledger and allocate direct costs to each client, product or service. Shared costs — staff time, premises, delivery, administration — are allocated using agreed, documented principles. The result is the profitability and full cost of each segment."],
+        ["What is unit cost and why does it matter?", "Unit cost is the full cost of producing one product or delivering one service, including a fair share of overheads. Without it, prices are often set by feel and some work is sold below cost without anyone noticing."],
+        ["Can the analysis update every month?", "Yes. We build the tool so that the finance team only pastes in the new month’s ledger, and the reports update automatically. It can also be moved to Power BI for automatic reporting."]
+      ]},
+      { "title": "M&A and valuation", "items": [
+        ["How is a company valued?", "Usually with several recognised methods: discounted cash flow, comparison with similar listed companies and transactions, and — where relevant — the net asset approach. The key assumptions are documented so that the value can be explained and defended."],
+        ["How do we prepare the business for sale?", "By preparing the numbers a buyer will test: normalised EBITDA excluding one-off costs and income, a clear calculation of working capital and net debt, and — if only part of the business is sold — separate financials for that part. A presentation of the company and its financials often tells the story behind them."],
+        ["What is financial due diligence?", "An independent review of a company’s financial position before a transaction. It tests the quality of the accounting records, establishes a normalised level of earnings, calculates net liabilities and identifies other key risks — the factors that affect the price and terms of the deal."],
+        ["Can you help with a management buy-out or bank financing?", "Yes. We prepare the financial model, other financial information and projections lenders require, help structure the financing and support the discussions with banks and alternative lenders."]
+      ]},
+      { "title": "Finance function and data analysis", "items": [
+        ["Which KPIs should management track?", "A short list that reflects how your business makes money — typically revenue and margin by segment, the items that drive the cash balance, working capital turnover and others. We define each one precisely so the numbers are not open to interpretation. The measures are usually tailored to each company and industry."],
+        ["Can you build reports in Power BI?", "Yes. We bring accounting, sales and operational data together in clear reports for management that update automatically. We also work with other data analytics platforms, not only Power BI."],
+        ["Can you help us prepare for an audit?", "Yes. We prepare the data, documentation and explanations auditors ask for, and review accounting policies and internal controls so the year-end audit runs smoothly."]
+      ]}
+    ],
+    "cta": "Book a discovery call",
+    "helper": "Did not find your answer? Ask us directly."
+  },
+
+  "footer": {
+    "services": "Services",
+    "firm": "Firm",
+    "about": "About",
+    "insights": "Insights",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "linkedin": "LinkedIn",
+    "privacy": "Privacy policy",
+    "office_city": "Riga",
+    "address": "Miera iela 10\nRiga, LV-1001\nLatvia",
+    "copyright": "© 2026 Krastin CFO Partners",
+    "disclaimer": "Krastin CFO Partners provides advisory services only. Figures shown across this site are anonymised. Nothing here is investment advice."
+  },
+
+  "privacy": {
+    "_review": "DRAFT written by Claude — please review (ideally with a lawyer) before launch.",
+    "h1": "Privacy *policy*",
+    "updated": "Last updated: 1 October 2026",
+    "sections": [
+      ["Who we are", "This website is operated by Krastin CFO Partners, Miera iela 10, Riga, LV-1001, Latvia. For any question about your personal data, write to elvis@krastin.eu."],
+      ["What we collect through the contact form", "When you send an enquiry we receive your name, company, work email address, the service area you selected and your message. We use this information only to reply to you and to prepare for a possible first meeting. The legal basis is our legitimate interest in answering your request and, where relevant, taking steps at your request before entering into a contract (GDPR Article 6(1)(b) and (f))."],
+      ["How the form is delivered", "Form submissions are passed to Web3Forms, a form-delivery service that forwards them to our email inbox. Web3Forms acts as a processor and does not use your data for its own purposes."],
+      ["How long we keep it", "We keep enquiries for as long as needed to handle your request and any resulting engagement, and delete enquiries that do not lead to a working relationship within 24 months."],
+      ["Analytics and cookies", "This site does not use cookies for tracking or advertising. We may use privacy-friendly, cookie-less analytics that count page visits in aggregate without identifying you or following you across other websites."],
+      ["Your rights", "You may ask to access, correct or delete your personal data, or object to its processing, by writing to elvis@krastin.eu. You also have the right to lodge a complaint with the Latvian Data State Inspectorate (Datu valsts inspekcija, www.dvi.gov.lv)."],
+      ["Changes", "We may update this policy from time to time. The date at the top of the page shows when it was last changed."]
+    ]
+  },
+
+  "notfound": {
+    "h1": "This page *does not exist*.",
+    "text": "The link may be out of date. Try the home page instead.",
+    "home": "Go to the home page"
+  }
+}

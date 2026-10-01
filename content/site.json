@@ -1,0 +1,32 @@
+{
+  "_help": "Settings shared by both languages. Text that visitors read lives in en.json and lv.json.",
+
+  "site_url": "https://krastin.eu",
+  "brand": "Krastin CFO Partners",
+  "email": "elvis@krastin.eu",
+  "phone": "+37129754905",
+  "phone_display": "+371 2975 4905",
+  "street": "Miera iela 10",
+  "postal_code": "LV-1001",
+  "country_code": "LV",
+  "linkedin_url": "",
+
+  "_web3forms_help": "Free key from https://web3forms.com (enter elvis@krastin.eu). This key is public by design - it only allows sending messages to your inbox.",
+  "web3forms_key": "",
+
+  "_analytics_help": "Cookie-less analytics. Fill ONE of these, or leave both empty for no analytics.",
+  "cloudflare_analytics_token": "",
+  "plausible_domain": "",
+
+  "case_order": ["carve-out", "long-term-plan", "unit-cost"],
+
+  "routes": {
+    "home":     { "en": "/",          "lv": "/lv/" },
+    "services": { "en": "/services/", "lv": "/lv/pakalpojumi/" },
+    "insights": { "en": "/insights/", "lv": "/lv/piemeri/" },
+    "about":    { "en": "/about/",    "lv": "/lv/par-mums/" },
+    "contact":  { "en": "/contact/",  "lv": "/lv/kontakti/" },
+    "faq":      { "en": "/faq/",      "lv": "/lv/buj/" },
+    "privacy":  { "en": "/privacy/",  "lv": "/lv/privatums/" }
+  }
+}

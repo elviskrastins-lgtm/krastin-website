@@ -1,0 +1,4 @@
+/* Mobile scale: type steps and page rhythm shrink below 760px. Components read the same tokens, so nothing else changes. */
+@media (max-width:760px){
+:root{--size-84:44px;--size-64:40px;--size-52:34px;--size-40:30px;--size-32:26px;--size-26:22px;--size-21:19px;--gutter-page:20px;--gutter-page-lg:20px;--section-pad-y:64px;--section-pad-y-tight:48px}
+}

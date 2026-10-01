@@ -1,0 +1,19 @@
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--surface-page);color:var(--text-body);font-family:var(--font-sans);font-size:var(--text-body-size);line-height:var(--lh-body);text-wrap:pretty;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4,h5{margin:0;color:var(--text-primary);font-weight:var(--weight-regular);letter-spacing:var(--track-heading);line-height:var(--lh-heading)}
+p{margin:0 0 var(--space-4)}
+a{color:var(--link);text-decoration:none;border-bottom:1px solid var(--border-strong);transition:var(--transition-control)}
+a:hover{color:var(--link-hover);border-bottom-color:var(--link-hover)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--focus-ring);outline-offset:2px}
+small{font-size:var(--text-small-size)}
+hr{border:0;border-top:1px solid var(--border-hairline);margin:var(--space-10) 0}
+::selection{background:var(--clay-300);color:var(--ink-900)}
+table{border-collapse:collapse;width:100%}
+th,td{text-align:left;padding:var(--space-3) var(--space-4);border-bottom:1px solid var(--border-hairline)}
+td.k-num,th.k-num{text-align:right;font-family:var(--font-figure);font-variant-numeric:tabular-nums lining-nums}
+/* --- small set of brand utilities used by cards, kits and templates --- */
+.k-eyebrow{font-family:var(--font-label);font-size:var(--size-11);letter-spacing:var(--track-label);text-transform:uppercase;color:var(--text-muted)}
+.k-hero{font-family:var(--font-display);font-size:var(--text-hero-size);line-height:var(--lh-tight);letter-spacing:var(--track-hero);text-transform:uppercase;font-weight:var(--weight-medium)}
+.k-em{font-family:var(--font-editorial);font-style:italic;font-weight:var(--weight-light);text-transform:none;letter-spacing:0}
+.k-lede{font-family:var(--font-editorial);font-size:var(--size-21);line-height:1.45;color:var(--text-body);max-width:var(--measure-lede)}
+.k-container{max-width:var(--width-content);margin:0 auto;padding-inline:var(--gutter-page)}

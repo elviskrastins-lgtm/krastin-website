@@ -1,0 +1,316 @@
+{
+  "_help": "Viss vietnes teksts latviešu valodā. Vārdi *zvaigznītēs* tiek rādīti slīprakstā (serif). Saglabājiet pēdiņas un komatus.",
+
+  "seo": {
+    "home":     { "title": "Krastin CFO Partners — Ārpakalpojuma finanšu direktors Rīgā", "description": "Ārpakalpojuma finanšu direktora pakalpojumi Latvijā: finanšu modelēšana un budžetēšana, pašizmaksa un segmentu rentabilitāte, finanšu funkcija un datu analīze, darījumi un uzņēmumu novērtēšana." },
+    "services": { "title": "Pakalpojumi — Krastin CFO Partners", "description": "Finanšu modeļi un budžeti, rentabilitāte pa klientiem un produktiem, pašizmaksas analīze, padziļinātā izpēte, uzņēmumu novērtēšana, finansējuma piesaiste, KPI pārskati un Power BI paneļi." },
+    "insights": { "title": "Piemēri — Krastin CFO Partners", "description": "Anonimizēti mūsu darba piemēri: uzņēmuma daļas nodalītie finanšu dati pārdošanai, piecu gadu plānošanas modelis, pašizmaksas un rentabilitātes analīze." },
+    "about":    { "title": "Par mums — Krastin CFO Partners", "description": "Elvis Krastiņš, dibinātājs un finanšu direktors. Pieredze investīciju baņķierībā, korporatīvajā kreditēšanā un finanšu funkcijas vadībā uzņēmumos." },
+    "contact":  { "title": "Kontakti — Krastin CFO Partners", "description": "Piesakieties uz bezmaksas pirmo tikšanos ar ārpakalpojuma finanšu direktoru Rīgā. Miera iela 10, Rīga. +371 2975 4905." },
+    "faq":      { "title": "BUJ — Krastin CFO Partners", "description": "Ko dara ārpakalpojuma finanšu direktors, cik tas maksā, kā tiek novērtēts uzņēmums, kā sagatavot uzņēmumu pārdošanai un kā aprēķina pašizmaksu un rentabilitāti." },
+    "privacy":  { "title": "Privātuma politika — Krastin CFO Partners", "description": "Kā Krastin CFO Partners apstrādā kontaktformā nosūtīto informāciju un kādu sīkdatnes neizmantojošu analītiku izmanto šī vietne." },
+    "notfound": { "title": "Lapa nav atrasta — Krastin CFO Partners", "description": "" },
+    "org_description": "Ārpakalpojuma finanšu direktora pakalpojumi: finanšu modelēšana un budžetēšana, segmentu rentabilitāte, finanšu funkcija un datu analīze, darījumi (M&A) un novērtēšana.",
+    "founder_title": "Dibinātājs un finanšu direktors"
+  },
+
+  "nav": {
+    "home": "Sākums",
+    "services": "Pakalpojumi",
+    "insights": "Piemēri",
+    "about": "Par mums",
+    "cta": "Pieteikties uz tikšanos",
+    "open_menu": "Atvērt izvēlni",
+    "close_menu": "Aizvērt izvēlni",
+    "language": "Valoda",
+    "skip": "Pāriet uz saturu"
+  },
+
+  "areas": {
+    "modelling": {
+      "title": "Finanšu modelēšana un budžetēšana",
+      "home": "Budžeti, prognozes un ilgtermiņa plāni, kas palīdz salīdzināt attīstības scenārijus.",
+      "about": "Budžeti, prognozes un ilgtermiņa plāni, kas palīdz salīdzināt attīstības scenārijus.",
+      "services": "Trīs savstarpēji saistīti pārskati — mainot vienu pieņēmumu, var redzēt ietekmi uz finanšu rezultātiem.",
+      "tasks": [
+        ["Finanšu modelis", "Peļņas vai zaudējumu aprēķins, bilance un naudas plūsma, sasaistīti vienā finanšu modelī, ko nosaka galvenie biznesu ietekmējošie faktori — apjomi, cenas, darbinieku skaits, apmaksas termiņi. Mainot vienu, prognozes atjaunojas."],
+        ["Gada budžets un prognozes", "Budžets, par kuru vienojas jūsu vadītāji, un katru mēnesi atjaunota prognoze ar faktiskajiem datiem, lai pilna gada prognozes vienmēr būtu aktualizētas."],
+        ["Scenāriju un jutīguma analīze", "Kas notiek, ja aiziet lielākais klients, materiālu cenas pieaug par 12% vai jaunā produktu līnija tiek palaista ar nokavēšanos. Mēs novērtējam katru gadījumu, lai lēmums tiktu pieņemts pirms notikuma, nevis pēc tā."],
+        ["Naudas plūsmas prognoze", "Iknedēļas vai ikmēneša pārskats par ienākošajām un izejošajām naudas plūsmām, kas precīzi parāda, cik katrā brīdī ir pieejami naudas līdzekļi."],
+        ["Stratēģiskā plānošana un izvērtēšana", "Ilgtermiņa finanšu prognozes katram stratēģiskajam virzienam — jauniem tirgiem, jauniem produktiem, paplašināšanai vai konsolidācijai —, salīdzinot tos pēc peļņas, naudas plūsmas un riska, lai izvēlētais virziens būtu tas, ko atbalsta skaitļi."]
+      ]
+    },
+    "profitability": {
+      "title": "Segmentu rentabilitāte",
+      "home": "Izpratne par to, kuri klienti, produkti un pakalpojumi rada peļņu un kuriem nepieciešama uzmanība.",
+      "about": "Izpratne par to, kuri klienti, produkti un pakalpojumi rada peļņu un kuriem nepieciešama uzmanība.",
+      "services": "Izpratne par to, kuri klienti, produkti un pakalpojumi rada peļņu un kuriem nepieciešama uzmanība.",
+      "tasks": [
+        ["Klientu rentabilitātes analīze", "Cik nopelnāt no katra klienta pēc uz to attiecinātajām tiešajām un netiešajām izmaksām."],
+        ["Rentabilitāte pa pakalpojumu virzieniem un/vai produktiem", "Rentabilitātes analīze katram pakalpojumu virzienam un/vai produktam, kas parāda, kuras jomas nes lielāko atdevi un kurām nepieciešami uzlabojumi."],
+        ["Pašizmaksas analīze", "Produkta ražošanas vai pakalpojuma sniegšanas pilnās pašizmaksas aprēķins, ieskaitot pamatotu netiešo izmaksu daļu. Viens no galvenajiem instrumentiem, lai lemtu par cenu līmeni un sadarbības nosacījumu pārskatīšanu ar klientiem."],
+        ["Zemākā cena produktiem vai pakalpojumiem", "Zemākā cena, par kuru vēl ir vērts ražot produktu vai sniegt attiecīgo pakalpojumu. Informācija pārdošanas un vadības komandai, lai tā var droši sagatavot piedāvājumus."],
+        ["Konsolidētie pārskati", "Vienota, konsekventa konsolidēto pārskatu struktūra, kas apvieno visu struktūrvienību, uzņēmumu un/vai segmentu rezultātus, lai vadība var salīdzināt to sniegumu un redzēt grupu kopumā."]
+      ]
+    },
+    "finance": {
+      "title": "Finanšu funkcija un datu analīze",
+      "home": "Pārskati un procesi, kas katru mēnesi sniedz vadībai skaidrus un saprotamus datus.",
+      "about": "Pārskati un procesi, kas katru mēnesi sniedz vadībai skaidrus un saprotamus datus.",
+      "services": "Cilvēki, procesi, pārskati un dati aiz tiem.",
+      "tasks": [
+        ["Vadības pārskati un KPI sistēma", "Vadības pārskatu sistēmas izstrāde un galveno darbības rādītāju (KPI) definēšana, lai vadība regulāri sekotu līdzi uzņēmuma sniegumam un pieņemtu lēmumus, balstoties uz vienotiem un uzticamiem datiem."],
+        ["Grāmatvedības politiku analīze", "Jūsu grāmatvedības politikas, ieņēmumu un izdevumu atzīšanas pieejas pārskatīšana, lai veiktā uzskaite atbilstu patiesajiem biznesa procesiem."],
+        ["Automātiska datu analīze", "Ērti, interaktīvi datu analīzes pārskati (piemēram, Power BI), kas apvieno grāmatvedības, pārdošanas un darbības datus vienā skatā vadībai un atbildīgajiem komandu vadītājiem."],
+        ["Uzskaites procesa analīze", "Uzskaites procesa izvērtējums no datu avota līdz finanšu pārskatiem: no kurienes un kādā formātā dati nonāk grāmatvedībā, kā tie tiek pārbaudīti, apstrādāti un uzskaitīti. Rezultātā tiek identificētas nepilnības un riski, kā arī sniegti ieteikumi, kā padarīt uzskaiti precīzāku, ātrāku un vieglāk kontrolējamu."]
+      ]
+    },
+    "ma": {
+      "title": "Darījumi (M&A) un novērtēšana",
+      "home": "Atbalsts uzņēmumu iegādē, pārdošanā vai novērtēšanā — no sākotnējām sarunām līdz darījuma noslēgšanai.",
+      "about": "Atbalsts uzņēmumu iegādē, pārdošanā vai novērtēšanā — no sākotnējām sarunām līdz darījuma noslēgšanai.",
+      "services": "Atbalsts visā darījuma gaitā — iegādē, pārdošanā, uzņēmumu izpirkšanā un finansējuma piesaistē — no novērtēšanas un padziļinātās izpētes līdz darījuma noslēgšanai.",
+      "tasks": [
+        ["Iegādājamā uzņēmuma finanšu padziļinātā izpēte", "Neatkarīgs iegādājamā uzņēmuma finanšu izvērtējums pirms iegādes: galveno risku identificēšana, finanšu datu un peļņas analīze, neto parāds un citi būtiski faktori, kam jānosaka iegādes cena."],
+        ["Uzņēmuma, grupas vai biznesa segmenta novērtēšana", "Neatkarīgs uzņēmuma, grupas vai biznesa segmenta novērtējums, kas sagatavots ar atzītām metodēm — diskontētās naudas plūsmas, tirgus salīdzinājumu un neto aktīvu metodi —, skaidri dokumentējot visus galvenos pieņēmumus."],
+        ["Banku un alternatīvais finansējums", "Esošo aizdevumu refinansēšana un jauna finansējuma piesaiste no bankām vai alternatīvajiem aizdevējiem, ieskaitot aizdevējiem nepieciešamās finanšu informācijas un prognožu sagatavošanu."],
+        ["Biznesa segmenta nodalītie finanšu dati", "Atsevišķi finanšu dati par pārdodamo vai nodalāmo biznesa daļu, nodalot kopējās izmaksas un ieņēmumus, lai konkrēti redzētu attiecīgā biznesa segmenta finanšu rezultātus."],
+        ["Uzņēmuma pārdošana", "Visa uzņēmuma pārdošanas procesa vadība — no sagatavošanas un pircēju atlases līdz sarunām un darījuma noslēgšanai."],
+        ["Vadības veikta izpirkšana (MBO)", "Uzņēmuma iegādes, ko veic tā vadības komanda, strukturēšana un īstenošana, ieskaitot novērtēšanu, finansējuma piesaisti un darījuma atbalstu."],
+        ["Uzņēmuma iegāde", "Pilns atbalsts uzņēmuma iegādē — no iegādājamo uzņēmumu atlases un novērtēšanas līdz padziļinātajai izpētei, sarunām un darījuma noslēgšanai."],
+        ["Ar aizņēmumu finansēta uzņēmuma iegāde (LBO)", "Galvenokārt ar aizņemtiem līdzekļiem finansēta uzņēmuma iegādes procesa vadīšana, finansēšanas modeļa izstrāde, sarunas ar aizdevējiem, strukturēšana un mērķa uzņēmuma parāda kapacitātes novērtēšana."]
+      ]
+    }
+  },
+
+  "home": {
+    "hero_line1": "Vai zināt, kuri",
+    "typed_words": ["produkti", "klienti", "pakalpojumi"],
+    "hero_line2": "*jums* nes peļņu?",
+    "hero_aria": "Vai zināt, kuri produkti, klienti vai pakalpojumi jums nes peļņu?",
+    "lede": "Lielākā daļa uzņēmumu īpašnieku un vadītāju pārzina savus ieņēmumus. Retāk – kuri klienti, produkti un pakalpojumi patiesībā nes peļņu.",
+    "lede2": "Mēs izveidojam pieeju, kas to parāda, — un paliekam līdzās, lai tā turpinātu darboties.",
+    "hero_cta": "Mūsu pieeja",
+    "problems_heading": "Kuri izaicinājumi no šiem *jums* šķiet pazīstami?",
+    "problems_intro": "Atzīmējiet atbilstošos, un ar tiem sāksim sarunu.",
+    "problems": [
+      "Kontā nav naudas, bet peļņa ir pozitīva",
+      "Nav skaidra klientu rentabilitāte",
+      "Nav kontroles pār izmaksām",
+      "Cenas nosaka pēc sajūtām",
+      "Nav budžetēšanas procesa",
+      "Izaugsme bez peļņas",
+      "Nav prognožu",
+      "Nav stratēģiskās plānošanas",
+      "Vēlos pārdot uzņēmumu",
+      "Nepieciešams daļu novērtējums",
+      "Rentabilitāte krītas, iemesls nav zināms"
+    ],
+    "problems_cta": "Pieteikties uz tikšanos",
+    "problems_none": "Vai piesakieties bez atzīmēšanas — atradīsim tos kopā.",
+    "problems_one": "Atzīmēti: {n}. Ieradīsimies sagatavojušies.",
+    "problems_many": "Atzīmēti: {n}. Ieradīsimies sagatavojušies.",
+    "services_heading": "Eksperta līmeņa finanšu funkcija, *ārpakalpojumā*.",
+    "services_sub": "Četri virzieni, kas aptver visu finanšu pārvaldību.",
+    "insights_heading": "Piemēri",
+    "insights_all": "Visi piemēri",
+    "closing_heading": "Sāciet ar jautājumu, uz kuru nezināt atbildi.",
+    "closing_cta": "Pieteikties uz tikšanos"
+  },
+
+  "services": {
+    "h1": "Finanses, kas *strādā jūsu labā*.",
+    "lede": "Mēs veicam finanšu direktora darbu tieši tajos uzdevumos, kuros tas jums nepieciešams.",
+    "close": "Aizvērt",
+    "process_heading": "Kā mēs strādājam",
+    "process": [
+      ["Iepazīšanās tikšanās", "Vispirms mēs ieklausāmies. Kopā aplūkojam jūsu izaicinājumus, vienojamies par galvenajiem jautājumiem un pārrunājam iespējamos risinājumus — jau pirmajā tikšanās reizē."],
+      ["Iespējas", "Mēs ieskicējam iespējamos risinājumus. Reti ir tikai viena pareizā atbilde, un, ja kāda darba daļa ir ārpus mūsu kompetences, mēs to atklāti pateiksim."],
+      ["Detalizēts piedāvājums", "Rakstisks piedāvājums ar konkrētiem soļiem, mērķiem un termiņiem, kā arī to, kā darbs turpināsies pēc sākotnējā izaicinājuma atrisināšanas."],
+      ["Izpilde un tālāk", "Mēs veicam saskaņoto darbu kopā ar jums un jūsu komandu. Pēc tam rīkus un procesus var nodot kolēģim, vai arī mēs varam turpināt kā jūsu nepilna laika finanšu direktors."]
+    ],
+    "sectors": ["Ražošana", "SaaS", "Loģistika", "Veselības aprūpe", "Infrastruktūra"],
+    "sectors_heading": "Nozares, kuras pārzinām pietiekami labi, lai būtu noderīgi jau pirmajā nedēļā.",
+    "cta": "Pieteikties uz tikšanos"
+  },
+
+  "insights": {
+    "h1": "Piemēri no *mūsu darba*",
+    "lede": "Īsi, anonimizēti stāsti par problēmām, kuras esam palīdzējuši atrisināt.",
+    "read_more": "Lasīt vairāk",
+    "anonymised": "Klientu informācija ir anonimizēta, skaitļi norādīti diapazonos.",
+    "cta": "Apspriest līdzīgu izaicinājumu",
+    "back": "Atpakaļ uz visiem piemēriem"
+  },
+
+  "cases": {
+    "carve-out": {
+      "topic": "M&A",
+      "date": "SEPT 2026",
+      "title": "Uzņēmuma daļas pārdošana, *kurai nebija atsevišķas uzskaites*",
+      "excerpt": "Nodalīti finanšu dati un investoriem gatavs stāsts par biznesa segmentu, kuram līdz šim nebija atsevišķas uzskaites.",
+      "lede": "Inženiertehnisko pakalpojumu uzņēmuma īpašnieki bija nolēmuši pārdot starptautisko biznesa segmentu. Investoru pirmais jautājums ir: cik šis biznesa segments nopelna pats par sevi? Taču atbildes līdz šim nevienam nebija.",
+      "facts": [["Klients", "Inženiertehnisko pakalpojumu uzņēmums"], ["Apmērs", "Apgrozījums 5–10 milj. EUR"], ["Darbs", "Nodalītie finanšu dati, normalizētā EBITDA, uzņēmuma prezentācija"]],
+      "body": [
+        ["Problēma", "Viss bizness atradās vienā juridiskajā personā. Ieņēmumi un projektu izmaksas tika uzskaitīti pa objektiem, taču algas, pieskaitāmās izmaksas un lielākā daļa bilances bija kopīgas starptautiskajiem projektiem un vietējam biznesam. Uzrādītajā peļņā bija iekļauti arī vienreizēji guvumi no aktīvu pārdošanas un pārvērtēšanas, kuri ietekmēja normalizēto peļņas līmeni."],
+        ["Ko mēs izdarījām", "Mēs izveidojām auditējamu pārdodamās biznesa daļas peļņas vai zaudējumu aprēķinu no pašiem pamatiem. Ieņēmumi un tiešās izmaksas tika ņemti no objektu līmeņa uzskaites. Algas tika sadalītas pa valstīm, izmantojot ikmēneša personāla datus. Kopējās izmaksas tika attiecinātas pēc skaidriem, dokumentētiem principiem, un mēs aplēsām, cik izmaksātu šīs biznesa daļas darbība kā patstāvīgam uzņēmumam. Izslēdzot vienreizējos posteņus, nonācām pie normalizētās EBITDA, kurā ir atsekojama katra korekcija."],
+        ["Bilance", "Pilna bilances sadale nebija nepieciešama. Tā vietā tika identificēti attiecīgajai biznesa daļai piederošie aktīvi, līzingi, debitori un kreditori, kā arī tika aplēsts normāls apgrozāmā kapitāla līmenis."]
+      ],
+      "outcome": "Pēc projekta īpašniekiem ir dati, kurus pircējs var pārbaudīt, un uzņēmuma prezentācija, kas izskaidro stāstu aiz tiem — jau pirms pirmās tikšanās."
+    },
+    "long-term-plan": {
+      "topic": "Finanšu modelēšana",
+      "date": "MAIJS 2026",
+      "title": "Piecu gadu plāns, *kurā vadība var veikt stratēģisko plānošanu*",
+      "excerpt": "Sabiedrisko pakalpojumu sniedzēja plānošanas modeļa pārbūve atbilstoši tam, kā uzņēmums patiesībā darbojas.",
+      "lede": "Sabiedrisko pakalpojumu sniedzējam bija nepieciešams vidēja termiņa plāns stratēģijas periodam. Esošajam modelim nebija vienotas struktūras: pieņēmumi bija izkaisīti pa visu modeli, formatējums un aprēķinu loģika dažādās daļās atšķīrās, un tas neļāva veikt scenāriju analīzi.",
+      "facts": [["Klients", "Sabiedrisko pakalpojumu infrastruktūras uzņēmums"], ["Periods", "Pieci gadi, pa gadiem"], ["Darbs", "Ilgtermiņa plānošanas modelis, KPI pārskati"]],
+      "body": [
+        ["Problēma", "Tā aktīvu bāze mainījās: jaunas iekārtas, nomāti aktīvi ar atšķirīgiem nosacījumiem un jaunas tehnoloģijas, kas paredzētas šajā periodā. Katram no tiem ir savas izmaksas, uzturēšana un finansējums. Vecajā modelī tie tika uzskatīti par vienu, bet publiskais finansējums un granti bija uzrādīti kopsummās, kas neatbilda gada pārskatam."],
+        ["Ko mēs izdarījām", "Mēs pārbūvējām modeli, balstot to uz saimniecisko darbību. Pakalpojumu apjomi pa darbības veidiem un aktīvu tipiem tagad nosaka enerģijas, uzturēšanas un nolietojuma izmaksas. Ieņēmumi ir sasaistīti ar pakalpojumu apjomiem un tarifu izmaiņām. Publiskā kompensācija un grantu amortizācija seko tai pašai loģikai kā realitātē, un aizdevumiem, kredītlīnijām un dividendēm katram ir savi nosacījumi."],
+        ["Veidots ilgtermiņam", "Katrs pieņēmums atrodas vienā skaidri iezīmētā ievades sadaļā — formulās nav paslēptu skaitļu. Faktiskos rezultātus un apstiprinātos budžetus var ievietot katru gadu, un citām publiskajām iestādēm iesniedzamie darbības rādītāji tiek aprēķināti tieši no modeļa."]
+      ],
+      "outcome": "Tagad vadība var analizēt katru būtisku lēmumu — jaunu pakalpojumu, nomas līgumu vai tarifa izmaiņas — un dažu minūšu laikā redzēt tā ietekmi uz peļņu, naudas plūsmu un finansējuma vajadzībām."
+    },
+    "unit-cost": {
+      "topic": "Segmentu rentabilitāte",
+      "date": "DEC 2025",
+      "title": "Cik *patiesībā* izmaksā katrs pakalpojums",
+      "excerpt": "Pašizmaksa un rentabilitāte pa struktūrvienībām un finansējuma avotiem, atjaunota katru mēnesi.",
+      "lede": "Veselības aprūpes iestāde ar vairākām struktūrvienībām un finansējuma avotiem zināja savu kopējo rezultātu, bet ne to, kuras struktūrvienības sedz savas izmaksas un cik patiesībā izmaksā viena pakalpojuma vienība.",
+      "facts": [["Klients", "Veselības aprūpes iestāde"], ["Tvērums", "Visas struktūrvienības un finansējuma avoti"], ["Darbs", "Pašizmaksas un rentabilitātes rīks, budžeta un fakta salīdzinājums"]],
+      "body": [
+        ["Problēma", "Izmaksas virsgrāmatā tika uzskaitītas pa kontiem ar nepilnīgu uzskaiti pa struktūrvienībām. Kopējās izmaksas — vairākās nodaļās strādājošs personāls, telpas, atbalsta funkcijas — netika attiecinātas vispār. Uzņēmumam nebija skaidras sapratnes, cik nopelna katrs pakalpojumu veids vai struktūrvienība."],
+        ["Ko mēs izdarījām", "Mēs izveidojām rīku, kas nolasa ikmēneša virsgrāmatu un attiecina ieņēmumus un izmaksas uz struktūrvienībām un finansējuma avotiem pēc vienotiem principiem. Kopējie konti tiek sadalīti pēc kritērijiem, kas noteikti kopā ar vadību, piemēram, pēc darba laika vai platības. Pēc tam katras struktūrvienības izmaksas tiek dalītas ar tās darbības apjomu, iegūstot skaidru vienības pašizmaksu."],
+        ["Katru mēnesi, nevis vienreiz", "Finanšu komanda ievieto jaunā mēneša virsgrāmatu, un pārskats atjaunojas pats. Jaunus kontus un struktūrvienības var pievienot bez rīka pārbūves, un atsevišķā skatā faktiskie rezultāti tiek salīdzināti ar budžetu pa mēnešiem."]
+      ],
+      "outcome": "Tagad vadība redz, kuras struktūrvienības un pakalpojumi sedz savas izmaksas, un var apspriest finansējumu un cenas, balstoties uz faktiem, nevis pieņēmumiem. Vēlāk šī pieeja tika pārnesta uz Power BI, tāpēc pārskati tagad atjaunojas automātiski."
+    }
+  },
+
+  "about": {
+    "h1": "Precīzāki dati, *labāki lēmumi*.",
+    "lede": "Mēs palīdzam uzņēmumu īpašniekiem un vadītājiem izprast savus finanšu datus un izmantot tos, lai pieņemtu lēmumus ar lielāku pārliecību.",
+    "body": [
+      "Daudzi izcili uzņēmēji un vadītāji ir patiesi savas jomas eksperti, taču nereti tiem nav bijis laika vai iemesla iedziļināties savu uzņēmumu finansēs, grāmatvedībā un datos. Tieši šeit mēs varam palīdzēt.",
+      "Mūsu pieredze aptver korporatīvās finanses (M&A), uzņēmumu kreditēšanu un finanšu funkcijas vadību uzņēmumos, tāpēc esam redzējuši uzņēmumus gan īpašnieku, gan aizdevēju, gan investoru skatījumā. Lai kāds būtu jūsu izaicinājums, visticamāk, ar ko līdzīgu jau esam saskārušies — un vienmēr labprāt tiksimies un to pārrunāsim."
+    ],
+    "name": "Elvis Krastiņš",
+    "role": "Dibinātājs un finanšu direktors",
+    "work_heading": "Mūsu darba jomas",
+    "how_heading": "Kā mēs strādājam",
+    "steps": [
+      ["Sākam ar ieklausīšanos", "Mūsu pirmā saruna ir par izaicinājumiem, ar kuriem saskaraties. Bieži jau tad varam pastāstīt, kā līdzīgas situācijas risinātas citur, lai jums rastos skaidrāks priekšstats par iespējām."],
+      ["Iespējas", "Izklāstam iespējamos risinājumus un to, ko katrs no tiem ietvertu. Ja kāda darba daļa vai viss risinājums ir ārpus mūsu kompetences, atklāti to izstāstam."],
+      ["Detalizēts piedāvājums", "Rakstisks plāns ar konkrētiem soļiem, mērķiem un termiņiem — un to, kā darbs turpināsies pēc sākotnējā izaicinājuma atrisināšanas."],
+      ["Izpilde un tālāk", "Veicam darbu kopā ar jums un jūsu komandu. Pēc projekta noslēguma izstrādātos rīkus un procesus nododam jūsu kolēģiem, vai arī turpinām sadarbību, uzņemoties jūsu finanšu funkcijas vadību nepilna laika režīmā."]
+    ],
+    "specialists": "Ja projektam nepieciešamas nodokļu, juridiskās, revīzijas vai IT sistēmu zināšanas, es sadarbojos ar uzticamiem speciālistiem un informēju jūs par to, kas ir iesaistīts.",
+    "closing": "Ja kaut kas no šī šķiet noderīgs, labprāt aprunāšos.",
+    "cta": "Pieteikties uz tikšanos"
+  },
+
+  "contact": {
+    "h1": "Sāciet ar jautājumu, uz kuru *nevarat* atbildēt.",
+    "lede": "Bez maksas un bez prezentācijām. Ja neesam īstie cilvēki, mēs to pateiksim un ieteiksim, kas ir.",
+    "office_label": "Rīga",
+    "address": "Miera iela 10\nRīga, LV-1001\nLatvija",
+    "direct_label": "Tiešie kontakti",
+    "note_title": "Piezīme",
+    "note": "Mēs neuzņemamies grāmatvedības un algu aprēķina darbus. Labprāt ieteiksim kādu, kas to dara.",
+    "name": "Vārds, uzvārds",
+    "name_ph": "Jānis Bērziņš",
+    "company": "Uzņēmums",
+    "company_ph": "Uzņēmums SIA",
+    "email": "Darba e-pasts",
+    "email_ph": "jusu@uznemums.lv",
+    "email_help": "Atbildam vienas darba dienas laikā.",
+    "start": "Ar ko sākt",
+    "not_sure": "Vēl nezinu",
+    "message": "Ko vēlaties noskaidrot?",
+    "message_ph": "Pietiek ar diviem trim teikumiem.",
+    "submit": "Pieteikties uz tikšanos",
+    "sending": "Sūta…",
+    "small": "Jūsu sniegto informāciju izmantojam tikai atbildei. Tikai konsultāciju pakalpojumi; nekas šeit nav uzskatāms par investīciju padomu.",
+    "success_h": "Paldies — atbildēsim vienas darba dienas laikā.",
+    "success_p": "Ar jums sazināsies Elvis personīgi.",
+    "again": "Nosūtīt vēl vienu pieprasījumu",
+    "error": "Diemžēl ziņu neizdevās nosūtīt. Lūdzu, rakstiet mums tieši uz elvis@krastin.eu.",
+    "prefill": "Atzīmētie izaicinājumi:",
+    "subject": "Jauns pieprasījums no krastin vietnes"
+  },
+
+  "faq": {
+    "h1": "Biežāk uzdotie *jautājumi*",
+    "lede": "Atbildes uz jautājumiem, ko uzņēmēji un vadītāji mums uzdod visbiežāk.",
+    "groups": [
+      { "title": "Vispārīgi", "items": [
+        ["Kas ir ārpakalpojuma finanšu direktors?", "Pieredzējis finanšu direktors, kurš strādā ar jūsu uzņēmumu konkrētu uzdevumu veikšanai, nevis kā pilna laika darbinieks. Jūs saņemat finanšu direktora līmeņa analīzi, plānošanu un atbalstu lēmumu pieņemšanā bez pastāvīga darbinieka izmaksām."],
+        ["Ar kādiem uzņēmumiem jūs strādājat?", "Galvenokārt ar īpašnieku vadītiem un vidējiem uzņēmumiem Latvijā un Baltijā, kā arī ar publiskā sektora un regulētām organizācijām. Tipiski klienti ir tie, kas aug, gatavojas darījumam vai kuriem vadībai un aizdevējiem nepieciešami precīzi dati lēmumu pieņemšanai."],
+        ["Ar ko tas atšķiras no grāmatveža vai revidenta?", "Grāmatvedis uzskaita notikušo, un revidents to pārbauda. Mēs izmantojam šos datus, lai izskaidrotu, kāpēc rezultāti ir tādi, kādi tie ir, un lai plānotu nākamos soļus — cenas, investīcijas, finansējumu vai uzņēmuma pārdošanu. Mēs neuzņemamies grāmatvedības un algu aprēķina darbus."],
+        ["Cik tas maksā?", "Lielākajai daļai projektu ir iepriekš saskaņota fiksēta cena, balstoties uz rakstisku piedāvājumu. Pastāvīgs nepilna laika finanšu direktora atbalsts parasti ir ikmēneša maksa vai stundas likme. Pirmā tikšanās ir bez maksas."],
+        ["Cik ilgi parasti ilgst projekts?", "Lielākā daļa projektu aizņem četras līdz astoņas nedēļas no datu saņemšanas brīža. Darījumu atbalsts seko darījuma grafikam, parasti no diviem mēnešiem līdz pat gadam un nereti arī ilgāk."],
+        ["Vai mūsu informācija tiek turēta konfidenciāli?", "Jā. Pirms datu saņemšanas mēs parakstām konfidencialitātes līgumu, un klientu nosaukumi bez atļaujas netiek publiskoti."]
+      ]},
+      { "title": "Finanšu modelēšana un budžetēšana", "items": [
+        ["Kas ir finanšu modelis?", "Modelis, kurā peļņas vai zaudējumu aprēķins, bilance un naudas plūsma ir savstarpēji sasaistīti, tāpēc viena izmaiņa — cena, apjoms vai apmaksas termiņš — atspoguļojas visos trijos. Tas parāda ne tikai peļņu, bet arī to, cik daudz naudas uzņēmumam būs nepieciešams."],
+        ["Vai varat izveidot budžetu, ko vadītāji patiešām izmantos?", "Jā. Budžetu veidojam kopā ar atbildīgajiem par katru jomu un pēc tam ieviešam vienkāršu ikmēneša procesu, lai salīdzinātu faktiskos rezultātus ar plānu un atjaunotu prognozi."],
+        ["Vai pēc tam varam modeli izmantot paši?", "Jā. Visi modeļi tiek veidoti Excel vai Power BI ar skaidri iezīmētiem ievades laukiem un dokumentāciju, un mēs apmācām jūsu komandas locekli tos uzturēt."]
+      ]},
+      { "title": "Segmentu rentabilitāte", "items": [
+        ["Kā jūs aprēķināt katra klienta vai produkta rentabilitāti?", "Sākam ar virsgrāmatu un attiecinām tiešās izmaksas uz katru klientu, produktu vai pakalpojumu. Kopējās izmaksas — darba laiks, telpas, piegāde, administrācija — tiek attiecinātas pēc saskaņotiem, dokumentētiem principiem. Rezultātā iegūstam katra segmenta rentabilitāti un pilnu pašizmaksu."],
+        ["Kas ir vienības pašizmaksa un kāpēc tā ir svarīga?", "Vienības pašizmaksa ir pilnās izmaksas viena produkta saražošanai vai viena pakalpojuma sniegšanai, ieskaitot pamatotu netiešo izmaksu daļu. Bez tās cenas bieži tiek noteiktas pēc sajūtām, un daļa darbu tiek pārdota zem pašizmaksas, to nemanot."],
+        ["Vai analīze var atjaunoties katru mēnesi?", "Jā. Rīku veidojam tā, lai finanšu komandai atliktu tikai ievietot jaunā mēneša virsgrāmatu, un pārskati atjaunojas automātiski. To var pārnest arī uz Power BI automātiskai atskaitēm."]
+      ]},
+      { "title": "Darījumi (M&A) un novērtēšana", "items": [
+        ["Kā tiek novērtēts uzņēmums?", "Parasti ar vairākām atzītām metodēm: diskontētās naudas plūsmas metodi, salīdzinājumu ar līdzīgiem biržā kotētiem uzņēmumiem un darījumiem un, ja attiecināms, neto aktīvu metodi. Galvenie pieņēmumi tiek dokumentēti, lai vērtību varētu izskaidrot un pamatot."],
+        ["Kā sagatavot uzņēmumu pārdošanai?", "Sagatavojot datus, kurus pircējs pārbaudīs: normalizētu EBITDA bez vienreizējām izmaksām un ieņēmumiem, skaidru apgrozāmā kapitāla un neto parāda aprēķinu un, ja tiek pārdota tikai uzņēmuma daļa, atsevišķus nodalītā biznesa daļas finanšu datus. Nereti prezentācija par uzņēmumu un finanšu datiem izskaidro stāstu aiz tiem."],
+        ["Kas ir finanšu padziļinātā izpēte (due diligence)?", "Neatkarīgs uzņēmuma finanšu stāvokļa izvērtējums pirms darījuma. Tajā tiek pārbaudīta uzskaitē veikto datu kvalitāte, noteikts normalizēts peļņas līmenis, aprēķinātas neto saistības un noteikti citi galvenie riski — faktori, kas ietekmē darījuma cenu un nosacījumus."],
+        ["Vai varat palīdzēt ar vadības veiktu izpirkšanu vai banku finansējumu?", "Jā. Mēs sagatavojam aizdevējiem nepieciešamo finanšu modeli, citus finanšu datus un prognozes, palīdzam strukturēt finansējumu un atbalstām sarunas ar bankām un alternatīvajiem aizdevējiem."]
+      ]},
+      { "title": "Finanšu funkcija un datu analīze", "items": [
+        ["Kurus KPI vadībai vajadzētu sekot?", "Īsu sarakstu, kas atspoguļo, kā jūsu uzņēmums pelna — parasti ieņēmumus un rentabilitāti pa segmentiem, naudas atlikumu ietekmējošās pozīcijas, apgrozāmā kapitāla aprites rādītājus un citus. Katru rādītāju definējam precīzi, lai skaitļi netiktu interpretēti dažādi. Rādītājus parasti nosakām katram uzņēmumam un nozarei individuāli."],
+        ["Vai varat izveidot atskaites Power BI?", "Jā. Mēs apvienojam grāmatvedības, pārdošanas un darbības datus pārskatāmās atskaitēs vadībai, kuras atjaunojas automātiski. Strādājam arī ar citām datu analīzes platformām, ne tikai Power BI."],
+        ["Vai varat palīdzēt sagatavoties revīzijai?", "Jā. Mēs sagatavojam revidentu pieprasītos datus, dokumentāciju un skaidrojumus, kā arī pārskatām grāmatvedības politikas un iekšējās kontroles, lai gada revīzija noritētu raiti."]
+      ]}
+    ],
+    "cta": "Pieteikties uz tikšanos",
+    "helper": "Neatradāt atbildi? Jautājiet mums tieši."
+  },
+
+  "footer": {
+    "services": "Pakalpojumi",
+    "firm": "Uzņēmums",
+    "about": "Par mums",
+    "insights": "Piemēri",
+    "faq": "BUJ",
+    "contact": "Kontakti",
+    "linkedin": "LinkedIn",
+    "privacy": "Privātuma politika",
+    "office_city": "Rīga",
+    "address": "Miera iela 10\nRīga, LV-1001\nLatvija",
+    "copyright": "© 2026 Krastin CFO Partners",
+    "disclaimer": "Krastin CFO Partners sniedz tikai konsultāciju pakalpojumus. Vietnē norādītie skaitļi ir anonimizēti. Mūsu pakalpojumi nav uzskatāmi par investīciju padomu."
+  },
+
+  "privacy": {
+    "_review": "MELNRAKSTS, ko sagatavoja Claude — lūdzu, pārskatiet (ieteicams ar juristu) pirms publicēšanas.",
+    "h1": "Privātuma *politika*",
+    "updated": "Pēdējās izmaiņas: 2026. gada 1. oktobrī",
+    "sections": [
+      ["Kas mēs esam", "Šo vietni uztur Krastin CFO Partners, Miera iela 10, Rīga, LV-1001, Latvija. Ar jautājumiem par saviem personas datiem rakstiet uz elvis@krastin.eu."],
+      ["Ko mēs saņemam kontaktformā", "Kad nosūtāt pieprasījumu, mēs saņemam jūsu vārdu, uzvārdu, uzņēmumu, darba e-pasta adresi, izvēlēto pakalpojumu jomu un ziņu. Šo informāciju izmantojam tikai, lai jums atbildētu un sagatavotos iespējamai pirmajai tikšanās reizei. Tiesiskais pamats ir mūsu leģitīmās intereses atbildēt uz jūsu pieprasījumu un, ja attiecināms, pasākumu veikšana pēc jūsu pieprasījuma pirms līguma noslēgšanas (VDAR 6. panta 1. punkta b) un f) apakšpunkts)."],
+      ["Kā forma tiek nosūtīta", "Formas dati tiek nodoti Web3Forms — formu piegādes pakalpojumam, kas tos pārsūta uz mūsu e-pastu. Web3Forms darbojas kā apstrādātājs un neizmanto jūsu datus saviem mērķiem."],
+      ["Cik ilgi glabājam datus", "Pieprasījumus glabājam tik ilgi, cik nepieciešams jūsu pieprasījuma izskatīšanai un iespējamai sadarbībai. Pieprasījumus, kas nav noveduši pie sadarbības, dzēšam 24 mēnešu laikā."],
+      ["Analītika un sīkdatnes", "Šī vietne neizmanto sīkdatnes izsekošanai vai reklāmai. Mēs varam izmantot privātumu respektējošu analītiku bez sīkdatnēm, kas apkopotā veidā uzskaita lapu apmeklējumus, jūs neidentificējot un neizsekojot citās vietnēs."],
+      ["Jūsu tiesības", "Jūs varat pieprasīt piekļuvi saviem personas datiem, to labošanu vai dzēšanu, kā arī iebilst pret to apstrādi, rakstot uz elvis@krastin.eu. Jums ir arī tiesības iesniegt sūdzību Datu valsts inspekcijā (www.dvi.gov.lv)."],
+      ["Izmaiņas", "Mēs varam laiku pa laikam atjaunināt šo politiku. Datums lapas augšdaļā norāda, kad tā pēdējo reizi mainīta."]
+    ]
+  },
+
+  "notfound": {
+    "h1": "Šāda lapa *neeksistē*.",
+    "text": "Iespējams, saite ir novecojusi. Mēģiniet sākumlapu.",
+    "home": "Uz sākumlapu"
+  }
+}
