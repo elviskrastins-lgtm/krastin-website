@@ -139,6 +139,8 @@ class Site:
         self.cfg = json.loads((ROOT / "content" / "site.json").read_text("utf-8"))
         self.t = {l: json.loads((ROOT / "content" / f"{l}.json").read_text("utf-8")) for l in LANGS}
         self.site_url = (site_url or self.cfg["site_url"]).rstrip("/")
+        if self.site_url.startswith("http://") and "localhost" not in self.site_url:
+            self.site_url = "https://" + self.site_url[len("http://"):]  # Pages reports http:// until HTTPS is enforced
         self.base = (base_path or "").rstrip("/")
         self.routes = self.cfg["routes"]
         self.cases = self.cfg["case_order"]
