@@ -110,16 +110,16 @@
     "problems_none": "Or book without picking — we will find them together.",
     "problems_one": "{n} problem selected. We will come prepared.",
     "problems_many": "{n} problems selected. We will come prepared.",
-    "services_heading": "An expert finance function, *outsourced*.",
+    "services_heading": "An expert finance function, *outsourced*",
     "services_sub": "Four things we do.",
     "insights_heading": "Insights",
     "insights_all": "All notes",
-    "closing_heading": "Start with one question you cannot answer.",
+    "closing_heading": "Start with one question you cannot answer",
     "closing_cta": "Book a discovery call"
   },
 
   "services": {
-    "h1": "Four things, done *properly*.",
+    "h1": "Four things, done *properly*",
     "lede": "We are not a bookkeeping service and not a consultancy that leaves a deck behind. We do the finance work a CFO would do, for the specific tasks you need one.",
     "close": "Close",
     "process_heading": "How we work",
@@ -130,7 +130,7 @@
       ["Delivery and beyond", "We carry out the agreed work with you and your team. Afterwards, the tools and processes can be handed over to a colleague, or we can stay on as your part-time CFO."]
     ],
     "sectors": ["Manufacturing", "SaaS", "Logistics", "Healthcare", "Infrastructure"],
-    "sectors_heading": "Sectors we know well enough to be useful in week one.",
+    "sectors_heading": "Sectors we know well enough to be useful in week one",
     "cta": "Book a discovery call"
   },
 
@@ -189,7 +189,7 @@
   },
 
   "about": {
-    "h1": "Clear numbers, *better decisions*.",
+    "h1": "Clear numbers, *better decisions*",
     "lede": "We help owners and managers understand their numbers and use them to make decisions with more confidence.",
     "body": [
       "Many excellent entrepreneurs and managers are true experts in their own field, yet have never had the time or the reason to master finance, accounting and data — or to bring them together into a clear picture of their own business. That is where we can help.",
@@ -206,12 +206,12 @@
       ["Delivery and beyond", "I carry out the work alongside you and your team. Afterwards, the tools can be handed over to a colleague, or I can stay on as your part-time CFO."]
     ],
     "specialists": "Where a project needs tax, legal, audit or systems expertise, I work together with trusted specialists and keep you informed of who is involved.",
-    "closing": "If any of this sounds useful, I would be glad to talk.",
+    "closing": "If any of this sounds useful, I would be glad to talk",
     "cta": "Book a discovery call"
   },
 
   "contact": {
-    "h1": "Start with the question you *cannot* answer.",
+    "h1": "Start with the question you *cannot* answer",
     "lede": "No charge, no deck. If we are not the right people we will say so and suggest who is.",
     "office_label": "Riga",
     "address": "Miera iela 10\nRiga, LV-1001\nLatvia",
@@ -232,7 +232,7 @@
     "submit": "Book a discovery call",
     "sending": "Sending…",
     "small": "We use what you send only to reply. Advisory services only; nothing here is investment advice.",
-    "success_h": "Thank you — we will reply within one business day.",
+    "success_h": "Thank you — we will reply within one business day",
     "success_p": "You will hear from Elvis directly.",
     "again": "Send another enquiry",
     "error": "Sorry, the message could not be sent. Please email us directly at elvis@krastin.eu.",
@@ -308,7 +308,7 @@
   },
 
   "notfound": {
-    "h1": "This page *does not exist*.",
+    "h1": "This page *does not exist*",
     "text": "The link may be out of date. Try the home page instead.",
     "home": "Go to the home page"
   }

@@ -110,16 +110,16 @@
     "problems_none": "Vai piesakieties bez atzīmēšanas — atradīsim tos kopā.",
     "problems_one": "Atzīmēti: {n}. Ieradīsimies sagatavojušies.",
     "problems_many": "Atzīmēti: {n}. Ieradīsimies sagatavojušies.",
-    "services_heading": "Eksperta līmeņa finanšu funkcija *ārpakalpojumā*.",
+    "services_heading": "Eksperta līmeņa finanšu funkcija *ārpakalpojumā*",
     "services_sub": "Četri virzieni, kas aptver visu finanšu pārvaldību.",
     "insights_heading": "Piemēri",
     "insights_all": "Visi piemēri",
-    "closing_heading": "Uzdodiet jautājumu, uz kuru nezināt atbildi.",
+    "closing_heading": "Uzdodiet jautājumu, uz kuru nezināt atbildi",
     "closing_cta": "Pieteikties uz tikšanos"
   },
 
   "services": {
-    "h1": "Finanses, kas *strādā jūsu labā*.",
+    "h1": "Finanses, kas *strādā jūsu labā*",
     "lede": "Mēs veicam finanšu direktora darbu tieši tajos uzdevumos, kuros tas jums nepieciešams.",
     "close": "Aizvērt",
     "process_heading": "Kā mēs strādājam",
@@ -130,7 +130,7 @@
       ["Izpilde un tālāk", "Mēs veicam saskaņoto darbu kopā ar jums un jūsu komandu. Pēc tam rīkus un procesus var nodot kolēģim, vai arī mēs varam turpināt darbu kā jūsu nepilna laika finanšu direktors."]
     ],
     "sectors": ["Ražošana", "SaaS", "Loģistika", "Veselības aprūpe", "Infrastruktūra"],
-    "sectors_heading": "Nozares, kuras pārzinām pietiekami labi, lai būtu noderīgi.",
+    "sectors_heading": "Nozares, kuras pārzinām pietiekami labi, lai būtu noderīgi",
     "cta": "Pieteikties uz tikšanos"
   },
 
@@ -189,7 +189,7 @@
   },
 
   "about": {
-    "h1": "Precīzāki dati — *labāki lēmumi*.",
+    "h1": "Precīzāki dati — *labāki lēmumi*",
     "lede": "Mēs palīdzam uzņēmumu īpašniekiem un vadītājiem izprast savus finanšu datus un izmantot tos, lai pieņemtu lēmumus ar lielāku pārliecību.",
     "body": [
       "Daudzi izcili uzņēmēji un vadītāji ir patiesi savas jomas eksperti, taču nereti tiem nav bijis laika vai iemesla iedziļināties savu uzņēmumu finansēs, grāmatvedībā un datos. Tieši šeit mēs varam palīdzēt.",
@@ -206,12 +206,12 @@
       ["Izpilde un tālāk", "Veicam darbu kopā ar jums un jūsu komandu. Pēc projekta noslēguma izstrādātos rīkus un procesus nododam jūsu kolēģiem, vai arī turpinām sadarbību, uzņemoties jūsu finanšu funkcijas vadību nepilna laika režīmā."]
     ],
     "specialists": "Ja projektam nepieciešamas nodokļu, juridiskās, revīzijas vai IT sistēmu zināšanas, sadarbojamies ar uzticamiem speciālistiem un informējam jūs par to, kas ir iesaistīts.",
-    "closing": "Ja kaut kas no šī šķiet noderīgs, labprāt aprunāsimies.",
+    "closing": "Ja kaut kas no šī šķiet noderīgs, labprāt aprunāsimies",
     "cta": "Pieteikties uz tikšanos"
   },
 
   "contact": {
-    "h1": "Sāciet ar jautājumu, uz kuru *nevarat* atbildēt.",
+    "h1": "Sāciet ar jautājumu, uz kuru *nevarat* atbildēt",
     "lede": "Iepazīšanās konsultācija un galveno problēmu nodefinēšana ir bez maksas.",
     "office_label": "Rīga",
     "address": "Miera iela 10\nRīga, LV-1001\nLatvija",
@@ -232,7 +232,7 @@
     "submit": "Pieteikties uz tikšanos",
     "sending": "Sūta…",
     "small": "Jūsu sniegto informāciju izmantojam tikai atbildei. Tikai konsultāciju pakalpojumi; nekas šeit nav uzskatāms par investīciju padomu.",
-    "success_h": "Paldies — atbildēsim vienas darba dienas laikā.",
+    "success_h": "Paldies — atbildēsim vienas darba dienas laikā",
     "success_p": "Ar jums sazināsies Elvis personīgi.",
     "again": "Nosūtīt vēl vienu pieprasījumu",
     "error": "Diemžēl ziņu neizdevās nosūtīt. Lūdzu, rakstiet mums tieši uz elvis@krastin.eu.",
@@ -308,7 +308,7 @@
   },
 
   "notfound": {
-    "h1": "Šāda lapa *neeksistē*.",
+    "h1": "Šāda lapa *neeksistē*",
     "text": "Iespējams, saite ir novecojusi. Mēģiniet sākumlapu.",
     "home": "Uz sākumlapu"
   }
