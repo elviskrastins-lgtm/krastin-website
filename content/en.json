@@ -149,12 +149,12 @@
       "date": "SEP 2026",
       "title": "Selling one part of a business *that was never counted separately*",
       "excerpt": "Carve-out financials and an investor-ready story for a division with no accounts of its own.",
-      "lede": "The owners of an engineering services company wanted to sell their international division. The buyer would ask one question first: what does that division earn on its own? Nobody had the answer.",
+      "lede": "The owners of an engineering services company want to sell their international division. The buyer will ask one question first: what does that division earn on its own? Nobody has the answer.",
       "facts": [["Client", "Engineering services company"], ["Size", "€5–10m revenue"], ["Work", "Carve-out financials, normalised EBITDA, information memorandum"]],
       "body": [
-        ["The problem", "Everything sat in one legal entity. Revenue and project costs were tracked by job, but payroll, overheads and most of the balance sheet were shared between the international projects and the domestic business. Reported profit also included one-off gains from an asset sale and a revaluation, which made the underlying performance look better than it was."],
-        ["What we did", "We built a profit and loss account for the division from the ground up. Revenue and direct costs came from job-level records. Payroll was split by country using monthly staffing data. Shared costs were allocated using clear, documented keys, and we estimated what the division would cost to run as a stand-alone business. One-off items were removed to arrive at a normalised EBITDA, with a bridge that shows every adjustment."],
-        ["The balance sheet", "A full split of the balance sheet was neither possible nor necessary. Instead we identified the assets, leases, receivables and payables that belong to the division, and estimated a normal level of working capital for the deal."]
+        ["The problem", "Everything sits in one legal entity. Revenue and project costs are tracked by job, but payroll, overheads and most of the balance sheet are shared between the international projects and the domestic business. Reported profit also includes one-off gains from an asset sale and a revaluation, which make the underlying performance look better than it is."],
+        ["What we do", "We build a profit and loss account for the division from the ground up. Revenue and direct costs come from job-level records. Payroll is split by country using monthly staffing data. Shared costs are allocated using clear, documented keys, and we estimate what the division would cost to run as a stand-alone business. One-off items are removed to arrive at a normalised EBITDA, with a bridge that shows every adjustment."],
+        ["The balance sheet", "A full split of the balance sheet is neither possible nor necessary. Instead we identify the assets, leases, receivables and payables that belong to the division, and estimate a normal level of working capital for the deal."]
       ],
       "outcome": "The owners now have numbers a buyer can test and a memorandum that tells the story behind them — before the first meeting, not during due diligence."
     },
@@ -163,11 +163,11 @@
       "date": "MAY 2026",
       "title": "A five-year plan *management can actually use*",
       "excerpt": "Rebuilding a public-service operator’s planning model around how the business really runs.",
-      "lede": "A public-service operator needed a medium-term plan for its strategy period. Its existing model produced a single number for most lines of the income statement and could not show what drives them.",
+      "lede": "A public-service operator needs a medium-term plan for its strategy period. Its existing model produces a single number for most lines of the income statement and cannot show what drives them.",
       "facts": [["Client", "Public-service infrastructure operator"], ["Horizon", "Five years, annual"], ["Work", "Long-term planning model, KPI reporting"]],
       "body": [
-        ["The problem", "Its asset base was changing: new equipment, leased assets on different terms and new technology due within the period. Each has its own costs, maintenance and financing. The old model treated them as one, and public funding and grants were shown as totals that did not match the annual report."],
-        ["What we did", "We rebuilt the model around operating activity. Service volumes by activity and asset type now drive energy, maintenance and depreciation. Revenue is linked to service volumes and tariff changes. Public compensation and grant amortisation follow the same logic as the annual accounts, and loans, credit lines and dividends each have their own terms."],
+        ["The problem", "Its asset base is changing: new equipment, leased assets on different terms and new technology due within the period. Each has its own costs, maintenance and financing. The old model treats them as one, and public funding and grants are shown as totals that do not match the annual report."],
+        ["What we do", "We rebuild the model around operating activity. Service volumes by activity and asset type drive energy, maintenance and depreciation. Revenue is linked to service volumes and tariff changes. Public compensation and grant amortisation follow the same logic as the annual accounts, and loans, credit lines and dividends each have their own terms."],
         ["Built to last", "Every assumption sits in one clearly marked input area — no numbers hidden in formulas. Actual results and approved budgets can be dropped in each year, and the key performance indicators reported to the public authority are calculated directly from the model."]
       ],
       "outcome": "Management can now test a decision — a new service, a lease or a tariff change — and see its effect on profit, cash and funding needs within minutes."
@@ -177,14 +177,14 @@
       "date": "DEC 2025",
       "title": "What each service *really* costs to deliver",
       "excerpt": "Unit costs and profitability by department and funding source, refreshed every month.",
-      "lede": "A healthcare provider with several departments and funding sources knew its total result, but not which departments covered their costs, or what one unit of service actually cost to deliver.",
+      "lede": "A healthcare provider with several departments and funding sources knows its total result, but not which departments cover their costs, or what one unit of service actually costs to deliver.",
       "facts": [["Client", "Healthcare provider"], ["Scope", "All departments and funding sources"], ["Work", "Unit cost and profitability tool, budget vs actual"]],
       "body": [
-        ["The problem", "Costs were recorded in the general ledger by account, not by department. Shared costs — staff working across units, premises, support functions — were not allocated at all. Pricing and funding discussions were therefore based on estimates."],
-        ["What we did", "We built a tool that reads the monthly general ledger and allocates revenue and costs to departments and funding sources using agreed rules. Shared accounts are split using criteria set with management, such as staff time or floor space. Each department’s cost is then divided by its activity to give a clear unit cost."],
+        ["The problem", "Costs are recorded in the general ledger by account, not by department. Shared costs — staff working across units, premises, support functions — are not allocated at all. Pricing and funding discussions are therefore based on estimates."],
+        ["What we do", "We build a tool that reads the monthly general ledger and allocates revenue and costs to departments and funding sources using agreed rules. Shared accounts are split using criteria set with management, such as staff time or floor space. Each department’s cost is then divided by its activity to give a clear unit cost."],
         ["Every month, not once", "The finance team pastes in the new month’s ledger and the report updates itself. New accounts and departments can be added without rebuilding anything, and a separate view compares actual results with budget month by month."]
       ],
-      "outcome": "Management now sees which departments and services cover their costs, and can discuss funding and pricing with facts rather than assumptions. The approach was later transferred to Power BI, so the reports now update automatically."
+      "outcome": "Management now sees which departments and services cover their costs, and can discuss funding and pricing with facts rather than assumptions. As a next step, the approach is transferred to Power BI, so the reports update automatically."
     }
   },
 

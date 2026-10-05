@@ -42,9 +42,9 @@
     },
     "profitability": {
       "title": "Segmentu rentabilitāte",
-      "home": "Izpratne par to, kuri klienti, produkti un pakalpojumi rada peļņu un kuriem nepieciešama uzmanība.",
-      "about": "Izpratne par to, kuri klienti, produkti un pakalpojumi rada peļņu un kuriem nepieciešama uzmanība.",
-      "services": "Izpratne par to, kuri klienti, produkti un pakalpojumi rada peļņu un kuriem nepieciešama uzmanība.",
+      "home": "Izpratne par to, kuri klienti, produkti un pakalpojumi rada peļņu un kuriem nepieciešams pievērst uzmanību.",
+      "about": "Izpratne par to, kuri klienti, produkti un pakalpojumi rada peļņu un kuriem nepieciešams pievērst uzmanību.",
+      "services": "Izpratne par to, kuri klienti, produkti un pakalpojumi rada peļņu un kuriem nepieciešams pievērst uzmanību.",
       "tasks": [
         ["Klientu rentabilitātes analīze", "Cik nopelnāt no katra klienta pēc uz to attiecinātajām tiešajām un netiešajām izmaksām."],
         ["Rentabilitāte pa pakalpojumu virzieniem un/vai produktiem", "Rentabilitātes analīze katram pakalpojumu virzienam un/vai produktam, kas parāda, kuras jomas nes lielāko atdevi un kurām nepieciešami uzlabojumi."],
@@ -89,7 +89,7 @@
     "hero_line2": "*jums* nes peļņu?",
     "hero_aria": "Vai zināt, kuri produkti, klienti vai pakalpojumi jums nes peļņu?",
     "lede": "Lielākā daļa uzņēmumu īpašnieku un vadītāju pārzina savus ieņēmumus. Retāk – kuri klienti, produkti un pakalpojumi patiesībā nes peļņu.",
-    "lede2": "Mēs izveidojam pieeju, kas to parāda, — un paliekam līdzās, lai tā turpinātu darboties.",
+    "lede2": "Mēs veidojam pieeju, kas to parāda, un esam klātesoši, lai tā turpina darboties.",
     "hero_cta": "Mūsu pieeja",
     "problems_heading": "Kuri izaicinājumi no šiem *jums* šķiet pazīstami?",
     "problems_intro": "Atzīmējiet atbilstošos, un ar tiem sāksim sarunu.",
@@ -110,11 +110,11 @@
     "problems_none": "Vai piesakieties bez atzīmēšanas — atradīsim tos kopā.",
     "problems_one": "Atzīmēti: {n}. Ieradīsimies sagatavojušies.",
     "problems_many": "Atzīmēti: {n}. Ieradīsimies sagatavojušies.",
-    "services_heading": "Eksperta līmeņa finanšu funkcija, *ārpakalpojumā*.",
+    "services_heading": "Eksperta līmeņa finanšu funkcija *ārpakalpojumā*.",
     "services_sub": "Četri virzieni, kas aptver visu finanšu pārvaldību.",
     "insights_heading": "Piemēri",
     "insights_all": "Visi piemēri",
-    "closing_heading": "Sāciet ar jautājumu, uz kuru nezināt atbildi.",
+    "closing_heading": "Uzdodiet jautājumu, uz kuru nezināt atbildi.",
     "closing_cta": "Pieteikties uz tikšanos"
   },
 
@@ -124,13 +124,13 @@
     "close": "Aizvērt",
     "process_heading": "Kā mēs strādājam",
     "process": [
-      ["Iepazīšanās tikšanās", "Vispirms mēs ieklausāmies. Kopā aplūkojam jūsu izaicinājumus, vienojamies par galvenajiem jautājumiem un pārrunājam iespējamos risinājumus — jau pirmajā tikšanās reizē."],
+      ["Iepazīšanās", "Pirmajā tikšanās reizē mēs ieklausāmies. Kopā aplūkojam jūsu izaicinājumus, vienojamies par galvenajiem jautājumiem un pārrunājam iespējamos risinājumus."],
       ["Iespējas", "Mēs ieskicējam iespējamos risinājumus. Reti ir tikai viena pareizā atbilde, un, ja kāda darba daļa ir ārpus mūsu kompetences, mēs to atklāti pateiksim."],
       ["Detalizēts piedāvājums", "Rakstisks piedāvājums ar konkrētiem soļiem, mērķiem un termiņiem, kā arī to, kā darbs turpināsies pēc sākotnējā izaicinājuma atrisināšanas."],
-      ["Izpilde un tālāk", "Mēs veicam saskaņoto darbu kopā ar jums un jūsu komandu. Pēc tam rīkus un procesus var nodot kolēģim, vai arī mēs varam turpināt kā jūsu nepilna laika finanšu direktors."]
+      ["Izpilde un tālāk", "Mēs veicam saskaņoto darbu kopā ar jums un jūsu komandu. Pēc tam rīkus un procesus var nodot kolēģim, vai arī mēs varam turpināt darbu kā jūsu nepilna laika finanšu direktors."]
     ],
     "sectors": ["Ražošana", "SaaS", "Loģistika", "Veselības aprūpe", "Infrastruktūra"],
-    "sectors_heading": "Nozares, kuras pārzinām pietiekami labi, lai būtu noderīgi jau pirmajā nedēļā.",
+    "sectors_heading": "Nozares, kuras pārzinām pietiekami labi, lai būtu noderīgi.",
     "cta": "Pieteikties uz tikšanos"
   },
 
@@ -147,27 +147,27 @@
     "carve-out": {
       "topic": "M&A",
       "date": "SEPT 2026",
-      "title": "Uzņēmuma daļas pārdošana, *kurai nebija atsevišķas uzskaites*",
-      "excerpt": "Nodalīti finanšu dati un investoriem gatavs stāsts par biznesa segmentu, kuram līdz šim nebija atsevišķas uzskaites.",
-      "lede": "Inženiertehnisko pakalpojumu uzņēmuma īpašnieki bija nolēmuši pārdot starptautisko biznesa segmentu. Investoru pirmais jautājums ir: cik šis biznesa segments nopelna pats par sevi? Taču atbildes līdz šim nevienam nebija.",
+      "title": "Uzskaites izveide *atsevišķam biznesa virzienam* viena uzņēmuma ietvaros",
+      "excerpt": "Nodalīti finanšu dati un investoriem gatavs stāsts par biznesa segmentu, kuram nav atsevišķas uzskaites.",
+      "lede": "Inženiertehnisko pakalpojumu uzņēmuma īpašnieki ir nolēmuši pārdot starptautisko biznesa segmentu. Investoru pirmais jautājums ir: cik šis biznesa segments nopelna pats par sevi? Taču atbildes uz to nevienam nav.",
       "facts": [["Klients", "Inženiertehnisko pakalpojumu uzņēmums"], ["Apmērs", "Apgrozījums 5–10 milj. EUR"], ["Darbs", "Nodalītie finanšu dati, normalizētā EBITDA, uzņēmuma prezentācija"]],
       "body": [
-        ["Problēma", "Viss bizness atradās vienā juridiskajā personā. Ieņēmumi un projektu izmaksas tika uzskaitīti pa objektiem, taču algas, pieskaitāmās izmaksas un lielākā daļa bilances bija kopīgas starptautiskajiem projektiem un vietējam biznesam. Uzrādītajā peļņā bija iekļauti arī vienreizēji guvumi no aktīvu pārdošanas un pārvērtēšanas, kuri ietekmēja normalizēto peļņas līmeni."],
-        ["Ko mēs izdarījām", "Mēs izveidojām auditējamu pārdodamās biznesa daļas peļņas vai zaudējumu aprēķinu no pašiem pamatiem. Ieņēmumi un tiešās izmaksas tika ņemti no objektu līmeņa uzskaites. Algas tika sadalītas pa valstīm, izmantojot ikmēneša personāla datus. Kopējās izmaksas tika attiecinātas pēc skaidriem, dokumentētiem principiem, un mēs aplēsām, cik izmaksātu šīs biznesa daļas darbība kā patstāvīgam uzņēmumam. Izslēdzot vienreizējos posteņus, nonācām pie normalizētās EBITDA, kurā ir atsekojama katra korekcija."],
-        ["Bilance", "Pilna bilances sadale nebija nepieciešama. Tā vietā tika identificēti attiecīgajai biznesa daļai piederošie aktīvi, līzingi, debitori un kreditori, kā arī tika aplēsts normāls apgrozāmā kapitāla līmenis."]
+        ["Problēma", "Viss bizness atrodas vienā juridiskajā personā. Ieņēmumi un projektu izmaksas tiek uzskaitīti pa objektiem, taču algas, pieskaitāmās izmaksas un lielākā daļa bilances ir kopīgas starptautiskajiem projektiem un vietējam biznesam. Uzrādītajā peļņā ir iekļauti arī vienreizēji guvumi no aktīvu pārdošanas un pārvērtēšanas, kas ietekmē normalizēto peļņas līmeni."],
+        ["Ko mēs darām", "Mēs izveidojam auditējamu pārdodamās biznesa daļas peļņas vai zaudējumu aprēķinu no pašiem pamatiem. Ieņēmumi un tiešās izmaksas tiek ņemti no objektu līmeņa uzskaites. Algas tiek sadalītas pa valstīm, izmantojot ikmēneša personāla datus. Kopējās izmaksas tiek attiecinātas pēc skaidriem, dokumentētiem principiem, un mēs aplēšam, cik izmaksātu šīs biznesa daļas darbība kā patstāvīgam uzņēmumam. Izslēdzot vienreizējos posteņus, nonākam pie normalizētās EBITDA, kurā ir atsekojama katra korekcija."],
+        ["Bilance", "Pilna bilances sadale nav nepieciešama. Tā vietā tiek identificēti attiecīgajai biznesa daļai piederošie aktīvi, līzingi, debitori un kreditori, kā arī tiek aplēsts normāls apgrozāmā kapitāla līmenis."]
       ],
-      "outcome": "Pēc projekta īpašniekiem ir dati, kurus pircējs var pārbaudīt, un uzņēmuma prezentācija, kas izskaidro stāstu aiz tiem — jau pirms pirmās tikšanās."
+      "outcome": "Projekta rezultātā īpašniekiem ir dati, kurus pircējs var pārbaudīt, un prezentācija par biznesa virzienu, kas izskaidro stāstu aiz tiem. Šis viss ir sagatavots jau pirms pirmās tikšanās ar potenciālajiem investoriem."
     },
     "long-term-plan": {
       "topic": "Finanšu modelēšana",
       "date": "MAIJS 2026",
       "title": "Piecu gadu plāns, *kurā vadība var veikt stratēģisko plānošanu*",
       "excerpt": "Sabiedrisko pakalpojumu sniedzēja plānošanas modeļa pārbūve atbilstoši tam, kā uzņēmums patiesībā darbojas.",
-      "lede": "Sabiedrisko pakalpojumu sniedzējam bija nepieciešams vidēja termiņa plāns stratēģijas periodam. Esošajam modelim nebija vienotas struktūras: pieņēmumi bija izkaisīti pa visu modeli, formatējums un aprēķinu loģika dažādās daļās atšķīrās, un tas neļāva veikt scenāriju analīzi.",
+      "lede": "Sabiedrisko pakalpojumu sniedzējam ir nepieciešams vidēja termiņa plāns stratēģijas periodam. Esošajam modelim nav vienotas struktūras: pieņēmumi ir izkaisīti pa visu modeli, formatējums un aprēķinu loģika dažādās daļās atšķiras, un tas neļauj veikt scenāriju analīzi.",
       "facts": [["Klients", "Sabiedrisko pakalpojumu infrastruktūras uzņēmums"], ["Periods", "Pieci gadi, pa gadiem"], ["Darbs", "Ilgtermiņa plānošanas modelis, KPI pārskati"]],
       "body": [
-        ["Problēma", "Tā aktīvu bāze mainījās: jaunas iekārtas, nomāti aktīvi ar atšķirīgiem nosacījumiem un jaunas tehnoloģijas, kas paredzētas šajā periodā. Katram no tiem ir savas izmaksas, uzturēšana un finansējums. Vecajā modelī tie tika uzskatīti par vienu, bet publiskais finansējums un granti bija uzrādīti kopsummās, kas neatbilda gada pārskatam."],
-        ["Ko mēs izdarījām", "Mēs pārbūvējām modeli, balstot to uz saimniecisko darbību. Pakalpojumu apjomi pa darbības veidiem un aktīvu tipiem tagad nosaka enerģijas, uzturēšanas un nolietojuma izmaksas. Ieņēmumi ir sasaistīti ar pakalpojumu apjomiem un tarifu izmaiņām. Publiskā kompensācija un grantu amortizācija seko tai pašai loģikai kā realitātē, un aizdevumiem, kredītlīnijām un dividendēm katram ir savi nosacījumi."],
+        ["Problēma", "Tā aktīvu bāze mainās: jaunas iekārtas, nomāti aktīvi ar atšķirīgiem nosacījumiem un jaunas tehnoloģijas, kas paredzētas šajā periodā. Katram no tiem ir savas izmaksas, uzturēšana un finansējums. Vecajā modelī tie tiek uzskatīti par vienu, bet publiskais finansējums un granti ir uzrādīti kopsummās, kas neatbilst gada pārskatam."],
+        ["Ko mēs darām", "Mēs pārbūvējam modeli, balstot to uz saimniecisko darbību. Pakalpojumu apjomi pa darbības veidiem un aktīvu tipiem nosaka enerģijas, uzturēšanas un nolietojuma izmaksas. Ieņēmumi ir sasaistīti ar pakalpojumu apjomiem un tarifu izmaiņām. Publiskā kompensācija un grantu amortizācija seko tai pašai loģikai kā realitātē, un aizdevumiem, kredītlīnijām un dividendēm katram ir savi nosacījumi."],
         ["Veidots ilgtermiņam", "Katrs pieņēmums atrodas vienā skaidri iezīmētā ievades sadaļā — formulās nav paslēptu skaitļu. Faktiskos rezultātus un apstiprinātos budžetus var ievietot katru gadu, un citām publiskajām iestādēm iesniedzamie darbības rādītāji tiek aprēķināti tieši no modeļa."]
       ],
       "outcome": "Tagad vadība var analizēt katru būtisku lēmumu — jaunu pakalpojumu, nomas līgumu vai tarifa izmaiņas — un dažu minūšu laikā redzēt tā ietekmi uz peļņu, naudas plūsmu un finansējuma vajadzībām."
@@ -177,19 +177,19 @@
       "date": "DEC 2025",
       "title": "Cik *patiesībā* izmaksā katrs pakalpojums",
       "excerpt": "Pašizmaksa un rentabilitāte pa struktūrvienībām un finansējuma avotiem, atjaunota katru mēnesi.",
-      "lede": "Veselības aprūpes iestāde ar vairākām struktūrvienībām un finansējuma avotiem zināja savu kopējo rezultātu, bet ne to, kuras struktūrvienības sedz savas izmaksas un cik patiesībā izmaksā viena pakalpojuma vienība.",
+      "lede": "Veselības aprūpes iestāde ar vairākām struktūrvienībām un finansējuma avotiem zina savu kopējo rezultātu, bet ne to, kuras struktūrvienības sedz savas izmaksas un cik patiesībā izmaksā viena pakalpojuma vienība.",
       "facts": [["Klients", "Veselības aprūpes iestāde"], ["Tvērums", "Visas struktūrvienības un finansējuma avoti"], ["Darbs", "Pašizmaksas un rentabilitātes rīks, budžeta un fakta salīdzinājums"]],
       "body": [
-        ["Problēma", "Izmaksas virsgrāmatā tika uzskaitītas pa kontiem ar nepilnīgu uzskaiti pa struktūrvienībām. Kopējās izmaksas — vairākās nodaļās strādājošs personāls, telpas, atbalsta funkcijas — netika attiecinātas vispār. Uzņēmumam nebija skaidras sapratnes, cik nopelna katrs pakalpojumu veids vai struktūrvienība."],
-        ["Ko mēs izdarījām", "Mēs izveidojām rīku, kas nolasa ikmēneša virsgrāmatu un attiecina ieņēmumus un izmaksas uz struktūrvienībām un finansējuma avotiem pēc vienotiem principiem. Kopējie konti tiek sadalīti pēc kritērijiem, kas noteikti kopā ar vadību, piemēram, pēc darba laika vai platības. Pēc tam katras struktūrvienības izmaksas tiek dalītas ar tās darbības apjomu, iegūstot skaidru vienības pašizmaksu."],
+        ["Problēma", "Izmaksas virsgrāmatā tiek uzskaitītas pa kontiem ar nepilnīgu uzskaiti pa struktūrvienībām. Kopējās izmaksas — vairākās nodaļās strādājošs personāls, telpas, atbalsta funkcijas — netiek attiecinātas vispār. Uzņēmumam nav skaidras sapratnes, cik nopelna katrs pakalpojumu veids vai struktūrvienība."],
+        ["Ko mēs darām", "Mēs izveidojam rīku, kas nolasa ikmēneša virsgrāmatu un attiecina ieņēmumus un izmaksas uz struktūrvienībām un finansējuma avotiem pēc vienotiem principiem. Kopējie konti tiek sadalīti pēc kritērijiem, kas noteikti kopā ar vadību, piemēram, pēc darba laika vai platības. Pēc tam katras struktūrvienības izmaksas tiek dalītas ar tās darbības apjomu, iegūstot skaidru vienības pašizmaksu."],
         ["Katru mēnesi, nevis vienreiz", "Finanšu komanda ievieto jaunā mēneša virsgrāmatu, un pārskats atjaunojas pats. Jaunus kontus un struktūrvienības var pievienot bez rīka pārbūves, un atsevišķā skatā faktiskie rezultāti tiek salīdzināti ar budžetu pa mēnešiem."]
       ],
-      "outcome": "Tagad vadība redz, kuras struktūrvienības un pakalpojumi sedz savas izmaksas, un var apspriest finansējumu un cenas, balstoties uz faktiem, nevis pieņēmumiem. Vēlāk šī pieeja tika pārnesta uz Power BI, tāpēc pārskati tagad atjaunojas automātiski."
+      "outcome": "Tagad vadība redz, kuras struktūrvienības un pakalpojumi sedz savas izmaksas, un var apspriest finansējumu un cenas, balstoties uz faktiem, nevis pieņēmumiem. Nākamajā solī šī pieeja tiek pārnesta uz Power BI, tāpēc pārskati atjaunojas automātiski."
     }
   },
 
   "about": {
-    "h1": "Precīzāki dati, *labāki lēmumi*.",
+    "h1": "Precīzāki dati — *labāki lēmumi*.",
     "lede": "Mēs palīdzam uzņēmumu īpašniekiem un vadītājiem izprast savus finanšu datus un izmantot tos, lai pieņemtu lēmumus ar lielāku pārliecību.",
     "body": [
       "Daudzi izcili uzņēmēji un vadītāji ir patiesi savas jomas eksperti, taču nereti tiem nav bijis laika vai iemesla iedziļināties savu uzņēmumu finansēs, grāmatvedībā un datos. Tieši šeit mēs varam palīdzēt.",
@@ -197,7 +197,7 @@
     ],
     "name": "Elvis Krastiņš",
     "role": "Dibinātājs un finanšu direktors",
-    "work_heading": "Mūsu darba jomas",
+    "work_heading": "Mūsu darbības jomas",
     "how_heading": "Kā mēs strādājam",
     "steps": [
       ["Sākam ar ieklausīšanos", "Mūsu pirmā saruna ir par izaicinājumiem, ar kuriem saskaraties. Bieži jau tad varam pastāstīt, kā līdzīgas situācijas risinātas citur, lai jums rastos skaidrāks priekšstats par iespējām."],
@@ -205,19 +205,19 @@
       ["Detalizēts piedāvājums", "Rakstisks plāns ar konkrētiem soļiem, mērķiem un termiņiem — un to, kā darbs turpināsies pēc sākotnējā izaicinājuma atrisināšanas."],
       ["Izpilde un tālāk", "Veicam darbu kopā ar jums un jūsu komandu. Pēc projekta noslēguma izstrādātos rīkus un procesus nododam jūsu kolēģiem, vai arī turpinām sadarbību, uzņemoties jūsu finanšu funkcijas vadību nepilna laika režīmā."]
     ],
-    "specialists": "Ja projektam nepieciešamas nodokļu, juridiskās, revīzijas vai IT sistēmu zināšanas, es sadarbojos ar uzticamiem speciālistiem un informēju jūs par to, kas ir iesaistīts.",
+    "specialists": "Ja projektam nepieciešamas nodokļu, juridiskās, revīzijas vai IT sistēmu zināšanas, sadarbojamies ar uzticamiem speciālistiem un informējam jūs par to, kas ir iesaistīts.",
     "closing": "Ja kaut kas no šī šķiet noderīgs, labprāt aprunāšos.",
     "cta": "Pieteikties uz tikšanos"
   },
 
   "contact": {
     "h1": "Sāciet ar jautājumu, uz kuru *nevarat* atbildēt.",
-    "lede": "Bez maksas un bez prezentācijām. Ja neesam īstie cilvēki, mēs to pateiksim un ieteiksim, kas ir.",
+    "lede": "Iepazīšanās konsultācija un galveno problēmu nodefinēšana ir bez maksas.",
     "office_label": "Rīga",
     "address": "Miera iela 10\nRīga, LV-1001\nLatvija",
     "direct_label": "Tiešie kontakti",
     "note_title": "Piezīme",
-    "note": "Mēs neuzņemamies grāmatvedības un algu aprēķina darbus. Labprāt ieteiksim kādu, kas to dara.",
+    "note": "Mēs neveicam grāmatvedības un algu aprēķina darbus. Labprāt ieteiksim kādu, kurš to dara.",
     "name": "Vārds, uzvārds",
     "name_ph": "Jānis Bērziņš",
     "company": "Uzņēmums",
@@ -247,7 +247,7 @@
       { "title": "Vispārīgi", "items": [
         ["Kas ir ārpakalpojuma finanšu direktors?", "Pieredzējis finanšu direktors, kurš strādā ar jūsu uzņēmumu konkrētu uzdevumu veikšanai, nevis kā pilna laika darbinieks. Jūs saņemat finanšu direktora līmeņa analīzi, plānošanu un atbalstu lēmumu pieņemšanā bez pastāvīga darbinieka izmaksām."],
         ["Ar kādiem uzņēmumiem jūs strādājat?", "Galvenokārt ar īpašnieku vadītiem un vidējiem uzņēmumiem Latvijā un Baltijā, kā arī ar publiskā sektora un regulētām organizācijām. Tipiski klienti ir tie, kas aug, gatavojas darījumam vai kuriem vadībai un aizdevējiem nepieciešami precīzi dati lēmumu pieņemšanai."],
-        ["Ar ko tas atšķiras no grāmatveža vai revidenta?", "Grāmatvedis uzskaita notikušo, un revidents to pārbauda. Mēs izmantojam šos datus, lai izskaidrotu, kāpēc rezultāti ir tādi, kādi tie ir, un lai plānotu nākamos soļus — cenas, investīcijas, finansējumu vai uzņēmuma pārdošanu. Mēs neuzņemamies grāmatvedības un algu aprēķina darbus."],
+        ["Ar ko tas atšķiras no grāmatveža vai revidenta?", "Grāmatvedis uzskaita notikušo, un revidents to pārbauda. Mēs izmantojam šos datus, lai izskaidrotu, kāpēc rezultāti ir tādi, kādi tie ir, un lai plānotu nākamos soļus — cenas, investīcijas, finansējumu vai uzņēmuma pārdošanu. Mēs neveicam grāmatvedības un algu aprēķina darbus."],
         ["Cik tas maksā?", "Lielākajai daļai projektu ir iepriekš saskaņota fiksēta cena, balstoties uz rakstisku piedāvājumu. Pastāvīgs nepilna laika finanšu direktora atbalsts parasti ir ikmēneša maksa vai stundas likme. Pirmā tikšanās ir bez maksas."],
         ["Cik ilgi parasti ilgst projekts?", "Lielākā daļa projektu aizņem četras līdz astoņas nedēļas no datu saņemšanas brīža. Darījumu atbalsts seko darījuma grafikam, parasti no diviem mēnešiem līdz pat gadam un nereti arī ilgāk."],
         ["Vai mūsu informācija tiek turēta konfidenciāli?", "Jā. Pirms datu saņemšanas mēs parakstām konfidencialitātes līgumu, un klientu nosaukumi bez atļaujas netiek publiskoti."]
