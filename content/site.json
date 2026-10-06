@@ -18,7 +18,10 @@
   "cloudflare_analytics_token": "e9cccb34d15e488b908e7edb84f7b1b3",
   "plausible_domain": "",
 
-  "case_order": ["carve-out", "long-term-plan", "unit-cost"],
+  "_tracking_help": "Extra addresses that show the home page, so visits from a channel can be counted in Cloudflare Web Analytics (Top paths). /e/ = email signature.",
+  "tracking_paths": { "en": ["/e/"], "lv": ["/lv/e/"] },
+
+  "case_order":["carve-out", "long-term-plan", "unit-cost"],
 
   "routes": {
     "home":     { "en": "/",          "lv": "/lv/" },

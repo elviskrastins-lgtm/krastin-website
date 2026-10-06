@@ -162,7 +162,7 @@ class Site:
         return f"{self.base}/assets/{p}"
 
     # ---------------------------------------------------------- shell
-    def head(self, lang, title, desc, paths, og_type="website", jsonld=()):
+    def head(self, lang, title, desc, paths, og_type="website", jsonld=(), noindex=False):
         cfg = self.cfg
         alt = "".join(f'<link rel="alternate" hreflang="{l}" href="{self.abs(paths[l])}">' for l in LANGS)
         alt += f'<link rel="alternate" hreflang="x-default" href="{self.abs(paths["en"])}">'
@@ -197,7 +197,7 @@ class Site:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 {desc_tags}
-<link rel="canonical" href="{canonical}">
+<link rel="canonical" href="{canonical}">{'<meta name="robots" content="noindex, follow">' if noindex else ''}
 {alt}
 <meta property="og:type" content="{og_type}">
 <meta property="og:site_name" content="{esc(cfg['brand'])}">
@@ -275,8 +275,8 @@ class Site:
 </html>
 """
 
-    def write(self, path, key, lang, paths, title, desc, main, active=None, og_type="website", jsonld=()):
-        doc = (self.head(lang, title, desc, paths, og_type, jsonld) + self.header(lang, active, paths)
+    def write(self, path, key, lang, paths, title, desc, main, active=None, og_type="website", jsonld=(), noindex=False):
+        doc = (self.head(lang, title, desc, paths, og_type, jsonld, noindex) + self.header(lang, active, paths)
                + f'<main id="main">\n{main}\n</main>\n' + self.footer(lang))
         target = OUT / path.lstrip("/") / "index.html" if path.endswith("/") else OUT / path.lstrip("/")
         target.parent.mkdir(parents=True, exist_ok=True)
@@ -371,6 +371,10 @@ class Site:
 </section>"""
         s = t["seo"]["home"]
         self.write(paths[lang], "home", lang, paths, s["title"], s["description"], main, "home")
+        # Tracking aliases of the home page (e.g. the email signature link): same page, own path in
+        # Cloudflare Web Analytics, kept out of Google and the sitemap.
+        for alias in self.cfg.get("tracking_paths", {}).get(lang, []):
+            self.write(alias, None, lang, paths, s["title"], s["description"], main, "home", noindex=True)
 
     def page_services(self, lang):
         t = self.t[lang]
