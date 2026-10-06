@@ -281,7 +281,7 @@ class Site:
         target = OUT / path.lstrip("/") / "index.html" if path.endswith("/") else OUT / path.lstrip("/")
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(doc, "utf-8")
-        if key:
+        if key and paths not in self.pages:  # each page is written once per language; list it once
             self.pages.append(paths)
 
     def btn(self, href, label, variant="primary", size="", arrow=False, extra=""):
