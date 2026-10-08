@@ -208,6 +208,10 @@ class Site:
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#F8F6F4">
+<link rel="icon" href="{self.base}/favicon.ico" sizes="48x48">
+<link rel="icon" href="{self.asset('favicon-48.png')}" type="image/png" sizes="48x48">
+<link rel="icon" href="{self.asset('favicon-96.png')}" type="image/png" sizes="96x96">
+<link rel="icon" href="{self.asset('favicon-192.png')}" type="image/png" sizes="192x192">
 <link rel="icon" href="{self.asset('favicon.svg')}" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{self.asset('apple-touch-icon.png')}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -641,6 +645,8 @@ class Site:
         js = (ROOT / "static" / "js" / "site.js").read_text("utf-8")
         self.asset_v = hashlib.sha1((css + js).encode()).hexdigest()[:10]
         shutil.copytree(ROOT / "static" / "assets", OUT / "assets")
+        for f in (ROOT / "static" / "root").glob("*"):  # files served at the site root, e.g. /favicon.ico
+            shutil.copy(f, OUT / f.name)
         (OUT / "assets" / "site.css").write_text(css, "utf-8")
         (OUT / "assets" / "site.js").write_text(js, "utf-8")
 
